@@ -1,1 +1,9 @@
+/* CSS reset rule */
 
+* {
+      /* Reset browser's default margin and padding to zero */
+      margin: 0;
+      padding: 0;
+      /* Include padding and border in the HTML element's total width and height */
+      box-sizing: border-box;
+}
