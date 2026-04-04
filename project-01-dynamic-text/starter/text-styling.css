@@ -1,0 +1,38 @@
+/* First and last name */
+/* Current date */
+/* JS Dynamic Text Styling */
+
+/* CSS reset rule */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+/* 
+TODO 1: Define these CSS variables:
+- font size (set to 16px)
+- font weight (set to normal)
+- font color (set to black)
+- font family (set to Arial and sans-serif)
+*/
+
+
+
+  
+
+}
+
+/* 
+TODO 2: Write CSS rule for a DIV, then set its margin to 80px
+*/
+
+
+/* 
+TODO 3: Write CSS rule for ID selector named myElement; use CSS variables to set color, font size, font family and font weight 
+*/
+
+
+
