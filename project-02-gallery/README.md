@@ -17,11 +17,9 @@
 
 ## 💡 Resources  
 
-- Example: [Array `length` property](https://gist.github.com/bengal865/098b8f709f15cc1e1f5fc33ae565b0d6)
-- Example: [Traditional vs. arrow function](https://gist.github.com/bengal865/5d86482e8893484f9ad9731a70be9a62)
-
-🔗 [General web design tutorials](https://github.com/NorthEdWAD/web-resources-list/blob/main/README.md)  
-
+See the `examples` folder for examples of:
+  - the array `length` property
+  - traditional versus (modern) arrow functions
 
 ## 🛠️ Project Requirements
 
