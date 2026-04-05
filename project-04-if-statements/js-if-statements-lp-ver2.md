@@ -4,13 +4,6 @@
 
 ---
 
-### **Core Principles of Essentialism Applied**
-1. **Focus on the vital few**: Only the most essential IF statement concepts and use cases are covered.
-2. **Eliminate the trivial**: Avoids overwhelming details or edge cases that distract from core understanding.
-3. **Encourage mastery**: Hands-on, repetitive practice with immediate feedback.
-
----
-
 ### **Materials Needed**
 - Laptop/computer with a code editor (e.g., VS Code, Sublime Text)
 - Browser for testing code (e.g., Chrome, Firefox)
