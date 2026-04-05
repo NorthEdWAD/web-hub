@@ -33,20 +33,23 @@
 
         /* Navbar items (buttons) */
         .navbar li {
+            flex: 1; /* Distribute space equally */
             margin: 0.5rem;
-  
+            text-align: center; /* Center the text inside the button */
         }
 
         /* Navbar links (buttons) */
         .navbar a {
-            
+            display: block; /* Make the anchor fill the li */
             color: white;
             text-decoration: none;
-            padding: 0.75rem 1.5rem;
+            padding: 0.75rem;
             background-color: #4CAF50;
             border-radius: 4px;
             font-weight: bold;
             transition: background-color 0.3s;
+            width: 100%; /* Ensure the button fills the li */
+            box-sizing: border-box; /* Include padding in width */
         }
 
         .navbar a:hover {
