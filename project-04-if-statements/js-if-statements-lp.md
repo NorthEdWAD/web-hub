@@ -5,7 +5,7 @@
 ## Duration: 4 days (90 minutes each day)
 
 ## Objective:
-By the end of this lesson, students will be able to understand and implement conditional statements using `if`, `else if`, and `else` in JavaScript. They will also practice debugging and refining their code through paired programming and partner activities.
+By the end of this lesson, students will be able to understand and write conditional statements using `if`, `else if`, and `else` in JavaScript. They will also practice debugging and refining their code through paired programming and partner activities.
 
 ## Day 1: Introduction to IF Statements
 
