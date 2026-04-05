@@ -1,8 +1,5 @@
-Here’s your **essentialist multi-day lesson plan** for teaching JavaScript IF statements, designed for four 90-minute classes:
+## **Title**: JavaScript IF Statements: A Multi-Day Essentialist Lesson Plan
 
----
-
-### **Title**: JavaScript IF Statements: A Multi-Day Essentialist Lesson Plan
 **Objective**: By the end of this lesson plan, students will deeply understand and confidently apply JavaScript IF statements in real-world scenarios.
 
 ---
