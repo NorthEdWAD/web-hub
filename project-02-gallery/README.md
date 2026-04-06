@@ -142,7 +142,7 @@ function runSlideshow() {
    // The loop starts at 0 and continues until it reaches the end of the array
    for (let i = 0; i < images.length; i++) {
 
-      // This IF statement checks if the current loop index 'i' matches the 'currentIndex'
+      // This IF statement checks if current value of counter variable 'i' matches the 'currentIndex'
       // If it does, it means we've found the currently displayed image
       if (i === currentIndex) {
 
