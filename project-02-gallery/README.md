@@ -23,7 +23,7 @@ Your project is complete when you have:
 
 * [ ] Added the project CSS to your style sheet
 * [ ] Added the HTML for your `<h1>`, the image placeholder and your three buttons
-* [ ] Added the variables, arrays and functions described below  
+* [ ] Added, tested and, if necessary, debugged the variables, arrays and functions described below  
 
 ## 🚀 **To Complete Your Project**
 1. Read the instructions and background info for this project.
