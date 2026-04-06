@@ -140,17 +140,27 @@ function updateGallery(index) {
 ---
 ```javascript
 function runSlideshow() {
-   // We use the FOR loop to determine what the 'next' index number should be
+   // We use the FOR loop to check each image in the 'images' array one by one.
+   // The loop starts at 0 and continues until it reaches the end of the array.
    for (let i = 0; i < images.length; i++) {
-         if (i === currentIndex) {
-            let nextIdx = (i + 1) % images.length;
-            updateGallery(nextIdx);
-            break; 
-            
-         } // End of IF statement
-   } // End of FOR loop
 
-} // End of runSlideshow ( ) function
+      // This IF statement checks if the current loop index 'i' matches the 'currentIndex'.
+      // If it does, it means we've found the currently displayed image.
+      if (i === currentIndex) {
+
+         // Calculate the index of the next image.
+         // The '%' (modulo) operator ensures that if we're at the last image,
+         // the next index wraps around to 0, creating a loop.
+         let nextIdx = (i + 1) % images.length;
+
+         // Call the 'updateGallery' function to display the next image.
+         updateGallery(nextIdx);
+
+         // Exit the loop early since we've found the current image and updated the gallery.
+         break;
+      } // End of IF statement
+   } // End of FOR loop
+} // End of runSlideshow() function
 
 ```
 ---
