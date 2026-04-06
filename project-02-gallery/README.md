@@ -52,7 +52,7 @@ To your `starter.html` page body:
 
 1. Add an h1: First Name Last Name JS Gallery
 2. Add DIV with class of `gallery-container`
-   - Add `<img>` with id of `gallery-img`
+   - Add `<img>` with id of `gallery-img` to `gallery-container` DIV 
    - Set `<img>` `src` to `coffee-shop.jpg` (the first image to display when page loads in browser)
    - Update `alt` attribute to describe this first image
    - Add `<p>` with id of `gallery-caption`
@@ -220,6 +220,7 @@ function toggleSlideshow() {
 ```
 
 ```javascript
+// Function to jump to next image in the images array 
 function nextImage() {
    stopTimer();
    runSlideshow(); 
@@ -228,13 +229,13 @@ function nextImage() {
 ---
 ```javascript
 /*
- * This function navigates to the previous image in the slideshow
+ * This function navigates to previous image in the slideshow
  * It stops the automatic timer, finds the current image, and updates the gallery
  * to show the previous image 
  */
 
 function prevImage() {
-   // Stop the automatic slideshow timer to prevent interference
+   // Stop the automatic slideshow timer to prevent interference when PREVIOUS button is clicked
    stopTimer();
 
    // Loop through the images to find the currently displayed image
@@ -273,7 +274,7 @@ pauseBtn.addEventListener("click", toggleSlideshow);
 
 ---
 ```javascript
-// Start the slideshow timer when the page loads in the browser
+// Start the slideshow timer when page loads in browser
 window.addEventListener("load", startTimer);
 
 ```
