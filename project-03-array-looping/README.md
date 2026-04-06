@@ -20,9 +20,6 @@
 
 - See the `examples` folder in this repository  
 
-🔗 [List of general web design resources](https://github.com/NorthEdWAD/web-resources-list/blob/main/README.md)  
-
-
 ## 🛠️ Project Requirements
 * [ ] Updated comment block in `starter.js`
 * [ ] Added text content as directed to `starter.html`
