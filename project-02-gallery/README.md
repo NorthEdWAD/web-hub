@@ -129,6 +129,7 @@ You need several variables and two arrays for this gallery project.
 
 ```javascript
 // Function to update the gallery
+// Function uses index number to match caption to correct image
 function updateGallery(index) {
    currentIndex = index;
    document.getElementById("gallery-img").src = images[index];
