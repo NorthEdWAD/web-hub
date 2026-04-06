@@ -164,7 +164,7 @@ function runSlideshow() {
 ---
 
 ```javascript
-/**
+/*
  * This function starts an automatic slideshow timer
  * It updates the page to show that the slideshow is playing and then sets up a timer
  * to advance the slideshow every 2 seconds
@@ -187,7 +187,7 @@ function startTimer() {
 ---
 
 ```javascript
-/**
+/*
  * This function stops the automatic slideshow timer
  * It updates the page to show the slideshow is paused and clears the timer
  * that was advancing the slideshow
@@ -227,7 +227,7 @@ function nextImage() {
 ```
 ---
 ```javascript
-/**
+/*
  * This function navigates to the previous image in the slideshow
  * It stops the automatic timer, finds the current image, and updates the gallery
  * to show the previous image 
