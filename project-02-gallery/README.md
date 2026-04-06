@@ -55,17 +55,17 @@ To your `starter.html` page body:
 1. Add an h1: First Name Last Name JS Gallery
 2. Add DIV with class of `gallery-container`
    - Add `<img>` with id of `gallery-img`
-   - Set `<img>` `src` to filename of first image you wish to display
+   - Set `<img>` `src` to `coffee-shop.jpg` (the first image to display when page loads in browser)
    - Update `alt` attribute to describe this first image
    - Add `<p>` with id of `gallery-caption`
-   - Under `<p>`, add DIV that contains three (3) `<button>` elements
+   - Under `<p>`, add DIV with `class` of `controls` that contains three (3) `<button>` elements
      - First button has `id` of `prev-btn` and button text of **Previous**
      - Second button has `id` of `pause-btn` and button text of **Pause**
      - Third button has `id` of `next-btn` and button text of **Next** 
 ---
 
 
-<!--
+
 
 ## Part 2: `starter.css`
 
@@ -75,17 +75,28 @@ Style your page by adding these CSS rules to your style sheet:
   - Choose font family
   - Set text align: center
   - Margin of 20px
+
+- `.controls` class rule:
+  - Set margin top to 20px
+
 - `#gallery-container` rule:
   - Margin of `20px auto`
   - Max width of 600px
+  - padding of 20px
+
+
 - `#gallery-img` rule:
   - Max width set to 100%
   - height set to auto
   - border set to 1px solid black
   - border radius of 4px
+
+
 - `#gallery-caption` rule:
   - margin top set to 10px
   - font size set to 18px
+
+
 - `button` rule:
   - padding set to `10px 20px`
   - margin set to 5px
@@ -95,8 +106,10 @@ Style your page by adding these CSS rules to your style sheet:
   - color of white
   - border set to none
   - border radius of 4px
+
+
 - `button:hover` pseudo-class:
-  - background color of your choice (different from button background color)
+  - background color of your choice (different than the button background color)
  
 ## Part 3: Variables & Arrays
 
@@ -106,9 +119,9 @@ You need several variables and two arrays for this gallery project.
 
 - Using `let`, define variable named `currentIndex`, set it to zero (0)
 - Using `let`, define variable named `slideInterval`
-- Using `let`, define a Boolean variable named `isPlaying`, set it to `true`
+- Using `let`, define a Boolean variable named `isPlaying`, set it to `false`
 - Using `const`, create array named `images`; add filenames of three images to array
-- Using `const`, create array named `captions`; add short, descriptive caption for each image to this array
+- Using `const`, create array named `captions`; add short, descriptive caption for each image 
 
 ## Part 4: JavaScript Functions
 
@@ -118,47 +131,47 @@ You need several variables and two arrays for this gallery project.
 
 ```javascript
 // Function to update the gallery
-function updateGallery() {
-   document.getElementById("gallery-img").src = images[currentIndex];
-   document.getElementById("gallery-caption").textContent = captions[currentIndex];
+function updateGallery(index) {
+   currentIndex = index;
+   document.getElementById("gallery-img").src = images[index];
+   document.getElementById("gallery-caption").textContent = captions[index];
 }
 ```
 ---
 ```javascript
-// Function to move to the next image
-function nextImage() {
-   currentIndex++;
-   if (currentIndex >= images.length) {
-      currentIndex = 0;
-   }
+function runSlideshow() {
+   // We use the loop to determine what the 'next' index should be
+   for (let i = 0; i < images.length; i++) {
+         if (i === currentIndex) {
+            let nextIdx = (i + 1) % images.length;
+            updateGallery(nextIdx);
+            break; 
+         } // End of IF statement
+   } // End of FOR loop
 
-   updateGallery();
-}
-
-```
----
-
-```javascript
-// Function to move to the previous image
-function prevImage() {
-   currentIndex--;
-   if (currentIndex < 0) {
-      currentIndex = images.length - 1;
-   }
-
-   updateGallery();
-}
+} // End of runSlideshow ( ) function
 
 ```
 ---
 
 ```javascript
-// Function to start the auto-advance slideshow
-function startSlideshow() {
-   slideInterval = setInterval(nextImage, 2000); // Advance every 2 seconds
+function startTimer() {
    isPlaying = true;
    document.getElementById("pause-btn").textContent = "Pause";
+   slideInterval = setInterval(runSlideshow, 2000);
 }
+
+
+```
+---
+
+```javascript
+function stopTimer() {
+   isPlaying = false;
+   document.getElementById("pause-btn").textContent = "Play";
+   clearInterval(slideInterval);
+}
+
 
 ```
 ---
@@ -166,16 +179,33 @@ function startSlideshow() {
 ```javascript
 // Function to pause or resume the slideshow
 function toggleSlideshow() {
-   if (isPlaying) {
-      clearInterval(slideInterval);
-      document.getElementById("pause-btn").textContent = "Play";
-   } else {
-      startSlideshow();
+   if (isPlaying) { 
+      stopTimer(); 
+   } else { 
+      startTimer(); 
    }
+}
+```
 
-   isPlaying = !isPlaying;
+```javascript
+function nextImage() {
+   stopTimer();
+   runSlideshow(); 
+}
+```
+---
+```javascript
+function prevImage() {
+   stopTimer();
 
-   }
+   for (let i = 0; i < images.length; i++) {
+         if (i === currentIndex) {
+            let prevIdx = (i - 1 + images.length) % images.length;
+            updateGallery(prevIdx);
+            break;
+         } // End of IF statement
+   } // End of FOR loop
+} // End of prevImage() function
 
 ```
 
