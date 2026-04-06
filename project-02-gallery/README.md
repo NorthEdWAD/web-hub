@@ -11,9 +11,7 @@
 
 ## 🚀 Getting Started
 1. **Download** the starter files from this repo.
-2. **Extract** the `.zip` folder (by right-clicking) and open the extracted folder in your code editor.
-3. **Delete** the original `.zip` folder.
-4. **Build:** Write your code in `starter.js`, `starter.html` and `starter.css`.  
+2. **Build:** Write your code in `starter.js`, `starter.html` and `starter.css` as shown below.
 
 ## 💡 Resources  
 
