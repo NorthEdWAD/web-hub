@@ -14,14 +14,11 @@
 
 ## 🚀 Getting Started
 1. **Download** starter files from this repo.
-2. **Extract** the `.zip` folder (by right-clicking).
-3. **Open** the extracted folder in VS Code.
-4. **Delete** original `.zip` folder.
-5. **Write** your JavaScript code in `starter.js`.
+2. **Write** the code as directed in your `starter.html`, `starter.js` and `starter.css` files.
 
 ## 💡 Resources  
 
-- See the `examples` and `starter-files` folders in this repository  
+- See the `examples` folder in this repository  
 
 🔗 [List of general web design resources](https://github.com/NorthEdWAD/web-resources-list/blob/main/README.md)  
 
@@ -29,13 +26,13 @@
 ## 🛠️ Project Requirements
 * [ ] Updated comment block in `starter.js`
 * [ ] Added text content as directed to `starter.html`
-
+* [ ] Updated CSS in `starter.css` 
 
 * [ ] Used `const` to create an array with 5 elements
 * [ ] Used traditional `for` loop to loop through and display array elements (with template string)
 * [ ] Used modern `forEach()` method to loop through and display array elements (with template string)
-* [ ] Added finished files to **forked repository** on GitHub.com.
-* [ ] Emailed web address of **forked repository** to teacher.
+* [ ] Added finished files to **repository** named `array-looping` on GitHub.
+* [ ] Emailed web address of **repository** to teacher.
 
 ---
 
