@@ -13,7 +13,7 @@
 ## Final Submission: FRI 10 APR 2026
 
 ## 🚀 Getting Started
-1. **Download** starter files from this repo.
+1. **Download** starter files from this GitHub repo.
 2. **Write** the code as directed in your `starter.html`, `starter.js` and `starter.css` files.
 
 ## 💡 Resources  
