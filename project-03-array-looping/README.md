@@ -32,7 +32,7 @@
 * [ ] Used traditional `for` loop to loop through and display array elements (with template string)
 * [ ] Used modern `forEach()` method to loop through and display array elements (with template string)
 * [ ] Added finished files to **repository** named `array-looping` on GitHub.
-* [ ] Emailed web address of **repository** to teacher.
+* [ ] Emailed web address of `array-looping` repo to teacher.
 
 ---
 
