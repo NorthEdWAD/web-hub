@@ -42,7 +42,7 @@
 3. **Drag and drop** updated project files into the repo.
 4. Scroll down, type "Final Submission" as your commit message, then click **Commit changes**.
 5. Email web address of `array-looping` repo to teacher.
-   - Use project title  -- **array-lloping** -- as your email **SUBJECT LINE** 
+   - Use project title  -- `array-looping` -- as your email **SUBJECT LINE** 
 
 ---
 
