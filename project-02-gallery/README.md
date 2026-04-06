@@ -26,9 +26,9 @@ Your project is complete when you have:
 * [ ] Added, tested and, if necessary, debugged the variables, arrays and functions described below  
 
 ## 🚀 **To Complete Your Project**
-1. Read the instructions and background info for this project.
-2. Write your HTML, then the CSS, and finally your JS.
-3. Run your slideshow in your browser.
+1. Read the instructions and view the example code for this project.
+2. Write your HTML, then CSS, and finally your JS as shown below.
+3. Test your slideshow in your browser.
        
 ---
 
