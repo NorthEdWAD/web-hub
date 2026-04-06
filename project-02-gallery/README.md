@@ -148,7 +148,7 @@ function runSlideshow() {
       if (i === currentIndex) {
 
          // Calculate the index of the next image.
-         // The '%' (modulo) operator ensures that if we're at the last image,
+         // The '%' (modulus) operator ensures that if we're at the last image,
          // the next index wraps around to 0, creating a loop
          let nextIdx = (i + 1) % images.length;
 
