@@ -14,7 +14,7 @@
 
 ## 🚀 Getting Started
 1. **Download** starter files from this GitHub repo.
-2. **Write** the code as directed in your `starter.html`, `starter.js` and `starter.css` files.
+2. **Write** code as directed in your `starter.html`, `starter.js` and `starter.css` files.
 
 ## 💡 Resources  
 
