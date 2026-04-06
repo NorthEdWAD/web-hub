@@ -140,23 +140,23 @@ function updateGallery(index) {
 ---
 ```javascript
 function runSlideshow() {
-   // We use the FOR loop to check each image in the 'images' array one by one.
-   // The loop starts at 0 and continues until it reaches the end of the array.
+   // We use the FOR loop to check each image in the 'images' array one by one
+   // The loop starts at 0 and continues until it reaches the end of the array
    for (let i = 0; i < images.length; i++) {
 
-      // This IF statement checks if the current loop index 'i' matches the 'currentIndex'.
-      // If it does, it means we've found the currently displayed image.
+      // This IF statement checks if the current loop index 'i' matches the 'currentIndex'
+      // If it does, it means we've found the currently displayed image
       if (i === currentIndex) {
 
          // Calculate the index of the next image.
          // The '%' (modulo) operator ensures that if we're at the last image,
-         // the next index wraps around to 0, creating a loop.
+         // the next index wraps around to 0, creating a loop
          let nextIdx = (i + 1) % images.length;
 
-         // Call the 'updateGallery' function to display the next image.
+         // Call the 'updateGallery' function to display the next image
          updateGallery(nextIdx);
 
-         // Exit the loop early since we've found the current image and updated the gallery.
+         // Exit the loop early since we've found the current image and updated the gallery
          break;
       } // End of IF statement
    } // End of FOR loop
@@ -166,9 +166,21 @@ function runSlideshow() {
 ---
 
 ```javascript
+/**
+ * This function starts an automatic slideshow timer
+ * It updates the page to show that the slideshow is playing and then sets up a timer
+ * to advance the slideshow every 2 seconds
+ */
+
 function startTimer() {
+   // Set the slideshow state to 'playing'
    isPlaying = true;
+
+   // Update the pause button text to "Pause" to indicate the slideshow is running
    document.getElementById("pause-btn").textContent = "Pause";
+
+   // Set up a timer to call 'runSlideshow' every 2000 milliseconds (2 seconds)
+   // This automatically advances the slideshow every two seconds
    slideInterval = setInterval(runSlideshow, 2000);
 }
 
@@ -177,9 +189,20 @@ function startTimer() {
 ---
 
 ```javascript
+/**
+ * This function stops the automatic slideshow timer
+ * It updates the page to show the slideshow is paused and clears the timer
+ * that was advancing the slideshow
+ */
+
 function stopTimer() {
+   // Set the slideshow state to 'paused'
    isPlaying = false;
+
+   // Update the pause button text to "Play" to indicate the slideshow is stopped
    document.getElementById("pause-btn").textContent = "Play";
+
+   // Clear the interval timer to stop the automatic advancement of the slideshow
    clearInterval(slideInterval);
 }
 
@@ -206,15 +229,30 @@ function nextImage() {
 ```
 ---
 ```javascript
+/**
+ * This function navigates to the previous image in the slideshow
+ * It stops the automatic timer, finds the current image, and updates the gallery
+ * to show the previous image 
+ */
+
 function prevImage() {
+   // Stop the automatic slideshow timer to prevent interference
    stopTimer();
 
+   // Loop through the images to find the currently displayed image
    for (let i = 0; i < images.length; i++) {
-         if (i === currentIndex) {
-            let prevIdx = (i - 1 + images.length) % images.length;
-            updateGallery(prevIdx);
-            break;
-         } // End of IF statement
+      // Check if current value of counter variable (i) matches the index number of the displayed image
+      if (i === currentIndex) {
+         // Calculate the index of the previous image, ensuring it wraps around
+         // to last image in image array if currently at the first image in the image array
+         let prevIdx = (i - 1 + images.length) % images.length;
+
+         // Update the gallery to display the previous image
+         updateGallery(prevIdx);
+
+         // Exit the loop early since the previous image has been found
+         break;
+      } // End of IF statement
    } // End of FOR loop
 } // End of prevImage() function
 
@@ -228,7 +266,7 @@ const nextBtn = document.getElementById("next-btn");
 const prevBtn = document.getElementById("prev-btn");
 const pauseBtn = document.getElementById("pause-btn");
 
-// Add event listeners to the buttons
+// Add CLICK event listeners to the buttons, call corresponding function when user clicks button
 nextBtn.addEventListener("click", nextImage);
 prevBtn.addEventListener("click", prevImage);
 pauseBtn.addEventListener("click", toggleSlideshow);
@@ -248,4 +286,4 @@ window.addEventListener("load", function() {
 ---
 
 
--->
+
