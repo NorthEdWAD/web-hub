@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset= "utf-8">
+  <meta name="viewport" content = "width=device-width, initial-scale=1.0">
+  <title>Manipulating JS Arrays</title>
+</head>
+<body>
+  <script>
+      
+      // Write a script in which you find the length of an array and
+      // then use these JS methods to manipulate at least one of your arrays:
+
+      // push ( )
+      // pop ( )
+      // shift ( ) 
+      // unshift ( )
+      // indexOf ( ) method
+      // length property
+
+    // Display your output in your console
+    // NOTE: You'll have to use multiple console.log ( ) statements to generate
+    // your output
+
+    const countries = ['Ireland', 'France', 'Switzerland', 'Austria'];
+
+
+    // Show the length of each array first, then
+    // add a capital city using the push ( ) method
+    const school = 'Bellaire High School';
+    const firstName = 'Mike';
+    const lastName = 'Jenkins';
+    const programmerInfo = `*** Script written by ${firstName} ${lastName} of ${school} ***`;
+    console.log(programmerInfo);
+    console.log('\n');
+    console.log(`My countries array: ${countries}`);
+    console.log(`Length of countries array: ${countries.length} elements`);
+    console.log('\n');
+    console.log('Adding Spain using the push( ) method:');
+    countries.push('Spain');
+    console.log(`Updated countries array: ${countries}`);
+    console.log('\n');
+    console.log('Removing an element using pop( ) method:');
+    countries.pop();
+    console.log(`${countries}`);
+    console.log('\n');
+    console.log('Using unshift ( ) method to add Germany to start of the countries array:');
+
+    countries.unshift('Germany');
+    console.log(`Updated countries array: ${countries}`);
+    console.log(`Index of Switzerland in updated countries array: ${countries.indexOf('Switzerland')}`);
+
+    
+  </script>
+</body>
+</html>
