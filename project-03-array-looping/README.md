@@ -8,13 +8,14 @@
 ---
 
 ## 📅 **Due Date**
-- **Final Submission:** DAY 00 MAR 2026
+- **Final Submission:** FRI 10 APR 2026
 
 ## 🚀 Getting Started
-1. **Download** the starter files from this repo (Code > Download ZIP).
-2. **Extract** the `.zip` folder (by right-clicking) and open the extracted folder in your code editor.
-3. **Delete** the original `.zip` folder (to keep your files tidy).
-4. **Build:** Write your JavaScript code in `starter.js`.
+1. **Download** starter files from this repo.
+2. **Extract** the `.zip` folder (by right-clicking).
+3. **Open** the extracted folder in VS Code.
+4. **Delete** original `.zip` folder.
+5. **Write** your JavaScript code in `starter.js`.
 
 ## 💡 Resources  
 
