@@ -215,8 +215,8 @@ function toggleSlideshow() {
       stopTimer(); 
    } else { 
       startTimer(); 
-   }
-}
+   } // End of IF statement
+} // End of toggleSlideshow() function
 ```
 
 ```javascript
