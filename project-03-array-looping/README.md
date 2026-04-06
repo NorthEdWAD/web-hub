@@ -37,13 +37,12 @@
 ---
 
 ## 📤 Uploading Your Files to GitHub
-1. Go to your **forked repository** on GitHub.com.
+1. Go to your `array-looping` repo on GitHub.
 2. Click **Add file** button > **Upload files**.
-3. **Drag and drop** updated `starter.html` and `starter.js`.
-4. Scroll down, type "Final Submission", and click **Commit changes**.
-5. Email web address of **forked repository** to teacher.
-   - Use project title as email **SUBJECT LINE** 
+3. **Drag and drop** updated project files into the repo.
+4. Scroll down, type "Final Submission" as your commit message, then click **Commit changes**.
+5. Email web address of `array-looping` repo to teacher.
+   - Use project title  -- **array-lloping** -- as your email **SUBJECT LINE** 
 
 ---
-*Pro Tip: Clean code is better than "more" code. Delete what you don't use.*
 
