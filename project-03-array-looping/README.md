@@ -2,6 +2,7 @@
 ## Looping Through An Array
 
 > **Objective:**
+>
 > Students will be able to use a traditional `for` loop and the more modern `forEach()` method to loop through and display the elements of an array.
 >
 > Students will also be able to explain in simple terms the **purpose** of the three expressions in a `for` statement.
