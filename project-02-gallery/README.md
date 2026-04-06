@@ -273,11 +273,8 @@ pauseBtn.addEventListener("click", toggleSlideshow);
 
 ---
 ```javascript
-// Start the slideshow and update the gallery when the page loads
-window.addEventListener("load", function() {
-   updateGallery();
-   startSlideshow();
-}); // Note punctuation on this line of JS
+// Start the slideshow timer when the page loads in the browser
+window.addEventListener("load", startTimer);
 
 ```
 
