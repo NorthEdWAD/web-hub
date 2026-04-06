@@ -140,12 +140,13 @@ function updateGallery(index) {
 ---
 ```javascript
 function runSlideshow() {
-   // We use the loop to determine what the 'next' index should be
+   // We use the FOR loop to determine what the 'next' index number should be
    for (let i = 0; i < images.length; i++) {
          if (i === currentIndex) {
             let nextIdx = (i + 1) % images.length;
             updateGallery(nextIdx);
             break; 
+            
          } // End of IF statement
    } // End of FOR loop
 
