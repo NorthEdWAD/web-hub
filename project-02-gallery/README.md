@@ -10,45 +10,41 @@
 - **Final Submission:** DAY 00 MAR 2026
 
 ## 🚀 Getting Started
-1. **Download** the starter files from this repo (Code > Download ZIP).
+1. **Download** the starter files from this repo.
 2. **Extract** the `.zip` folder (by right-clicking) and open the extracted folder in your code editor.
-3. **Delete** the original `.zip` folder (to keep your files tidy).
-4. **Build:** Write your JavaScript code in `starter.js`.
+3. **Delete** the original `.zip` folder.
+4. **Build:** Write your code in `starter.js`, `starter.html` and `starter.css`.  
 
 ## 💡 Resources  
 
-See the `examples` folder for examples of:
-  - the array `length` property
-  - traditional versus (modern) arrow functions
+See the `examples` folder.
 
 ## 🛠️ Project Requirements
 
-Your project is complete when you have:
+Your project is complete when you have:  
 
 * [ ] Added the project CSS to your style sheet
 * [ ] Added the HTML for your `<h1>`, the image placeholder and your three buttons
-* [ ] Added the variables, arrays and functions described below
+* [ ] Added the variables, arrays and functions described below  
 
 ## 🚀 **To Complete Your Project**
-1. **Read:** Read the instructions and background info for this project.
-2. **Build:** Write your code in the starter files, beginning with the HTML, then the CSS, and finally the JavaScript.
-3. **Test:** Run your slideshow in your browser.
+1. Read the instructions and background info for this project.
+2. Write your HTML, then the CSS, and finally your JS.
+3. Run your slideshow in your browser.
        
 ---
 
 
 ## 📤 Uploading Your Files to GitHub
-1. Go to your **forked repository** on GitHub.com.
+1. Go to your `js-slideshow` repo on GitHub.
 2. Click the **Add file** button > **Upload files**.
-3. **Drag and drop** your updated `starter.html`, `starter.css`, and `starter.js`.
-4. Scroll down, type "Final Submission," and click **Commit changes**.
-5. Email the web address of your **forked repository** to your teacher.
-   - Use the project title as the email **SUBJECT LINE** 
+3. **Drag and drop** your updated files into the repo.
+4. Scroll down, type "Final Submission," then click **Commit changes**.
+5. Email the web address of your `js-slideshow` to your teacher.
+   - Use "JS Slideshow" as the email **SUBJECT LINE** 
 
 ---
-*Pro Tip: Clean code is better than "more" code. Delete what you don't use.*
 
----
 
 ## Part 1: HTML Structure
 
