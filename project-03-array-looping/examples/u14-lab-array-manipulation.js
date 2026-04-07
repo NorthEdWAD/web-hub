@@ -18,27 +18,26 @@ console.log(`Current Superhero Team: ${heroes}`);
 
 
 // TODO 4: Use .pop() method to remove a hero from END of array
-// Assign removed hero to variable named removedLast
-// Display name of removed hero AND contents of modified array using join ( ) method plus blank
-// space
+// Assign removed hero to variable named removedLastHero
+// Use console.log() and template string to display name of last removed hero AND updated array
 
 
 // TODO 5: Use .shift() method to remove a hero from the START of the array
-// Assign removed hero to variable named removedFirst
-// Display name of removed hero AND contents of modified array using join ( ) method plus blank
-// space
+// Assign removed hero to variable named removedFirstHero
+// Use console.log() and template string to display name of first removed hero AND updated array
 
 
-// TODO 6: Use .unshift() method to add a hero to the START of array
-// Display contents of modified array using join ( ) method plus blank space
+
+// TODO 6: Use .unshift() method to add a superhero to the START of array
+// Use console.log() and template string to display updated array
 
 
-// TODO 7: Use .indexOf() method to find index number of a specific hero
-// Assign index number of the specific hero to a variable named position
-// Use template string to display name and index number of the specific hero
+// TODO 7: Use .indexOf() method to find index number of a specific superhero
+// Assign index number of the specific superhero to a variable named heroPosition
+// Use template string to display name and index number of this specific superhero
 
 
 // TODO 8: Use .length property to truncate (shorten) your array
-// We will limit the team to the first 3 superheroes only
-// Display contents of modified array using join ( ) method plus blank space
+// Limit the superhero team to the first 3 superheroes only
+// Use template string to display contents of shortened array 
 
