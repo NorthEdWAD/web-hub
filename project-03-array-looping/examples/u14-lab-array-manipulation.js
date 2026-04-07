@@ -1,6 +1,6 @@
 // First and last name
 // Current date
-// Array Manipulation
+// Array Methods Practice
 
 
 // TODO 1: Initialize heroes array with five superheroes
