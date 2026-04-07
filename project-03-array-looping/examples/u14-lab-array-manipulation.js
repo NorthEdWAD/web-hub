@@ -7,10 +7,10 @@
 
 
 // TODO 2: Use .length property to find initial size of array
-// Use alert ( ) method to display initial team size
-// Then use join ( ) method plus a blank space to neatly display array contents
+// Use alert ( ) method to display initial team size in pop-up window
+// Use console.log() to display array contents
 alert(`Initial Team Size: ${heroes.length}`);
-alert(`Current Roster: ${heroes.join(", ")}`);
+console.log(`Current Superhero Team: ${heroes}`);
 
 // TODO 3: Use .push() to add a hero to END of array
 // Then use join ( ) method plus a blank space to neatly display array contents
