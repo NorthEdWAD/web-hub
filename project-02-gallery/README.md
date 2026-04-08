@@ -80,12 +80,14 @@ Style your page by adding these CSS rules to your style sheet:
   - Max width of 600px
   - padding of 20px
   - Set `grid-template-areas` property to these grid areas:
-    - title
-    - image
-    - caption
-    - btn-prev
-    - btn-pause
-    - btn-next
+    ```text
+    "title"
+    "image"
+    "caption"
+    "btn-prev"
+    "btn-pause"
+    "btn-next";
+    ```
 
 - Rule for `h1`:
   - Set `grid-area` to: title
