@@ -50,11 +50,11 @@ First, we need to create the skeleton of our web page.
 
 To your `starter.html` page body:
 
-1. Add DIV with class of `gallery-container`
+1. Add DIV with id of `gallery-container`
    - Inside the `gallery-container` DIV, add an h1: First Name Last Name JS Gallery
    - Add `<img>` with id of `gallery-img` to `gallery-container` DIV 
-   - Set `<img>` `src` to `coffee-shop.jpg` (the first image to display when page loads in browser)
-   - Update `alt` attribute to describe this first image
+     - Set `<img>` `src` to `coffee-shop.jpg` (the first image to display when page loads in browser)
+     - Update `alt` attribute to describe this first image
    - Add `<p>` with id of `gallery-caption`
    - Under the `<p>`, add three (3) HTML `<button>` elements:
      - First button has `id` of `prev-btn` and button text of **Previous**
