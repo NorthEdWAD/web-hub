@@ -63,7 +63,7 @@ To your `starter.html` page body:
 ---
 
 
-
+<!--
 
 ## Part 2: `starter.css`
 
@@ -318,6 +318,8 @@ window.addEventListener("load", startTimer);
 ```
 
 ---
+
+-->
 
 
 
