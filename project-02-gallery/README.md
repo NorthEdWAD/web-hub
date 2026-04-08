@@ -52,7 +52,7 @@ To your `starter.html` page body:
 
 1. Add DIV with id of `gallery-container`
    - Inside the `gallery-container` DIV:
-     - Add an h1: First Name Last Name JS Gallery
+     - Add an h1: First Name Last Name JS Slideshow
      - Add `<img>` with id of `gallery-img` to `gallery-container` DIV 
        - Set `<img>` `src` to `coffee-shop.jpg` (the first image to display when page loads in browser)
        - Update `alt` attribute to describe this first image
