@@ -136,10 +136,10 @@ Style your page by adding these CSS rules to your style sheet:
   - Set `min-width` property to: 600px
   - Inside the media query, write a rule for `#gallery-container`:
     - Set `grid-template-columns` to: `1fr 1fr 1fr`
-    - Set `grid-template-areas` property to these grid areas:
-        `"title title title"
-         "image image image"
-         "caption caption caption"
+    - Set `grid-template-areas` property to these grid areas:  
+        `"title title title"  
+         "image image image"  
+         "caption caption caption"  
          "btn-prev btn-pause btn-next";`
  
 ## Part 3: Variables & Arrays
