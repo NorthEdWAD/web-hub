@@ -1,3 +1,24 @@
+# For Today | WED 08 APR 2026
+
+- SSR
+
+- Reminders/Announcements
+  - Career Fair (THU)
+  - Mock interviews
+  - Practice certification exam (FRI)  
+
+- Warm-Up: Resume critique
+
+- Discuss gallery code rubric
+
+- SMALL GROUPS: Code critique (Version A & Version B)
+
+- WHOLE GROUP: Discuss conclusions/observations
+
+- Finish/check @ workstation
+  - Array `length` property + array methods from TUE
+ 
+---
 ## AM Groups
 
 | Group 1   | Group 2   | Group 3   | Group 5   | Group 6   |
