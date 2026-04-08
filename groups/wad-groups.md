@@ -16,7 +16,7 @@
 - WHOLE GROUP: Discuss conclusions/observations
 
 - Finish/check @ workstation
-  - Array `length` property + array methods from TUE
+  - Array methods project (from yesterday)
  
 ---
 ## AM Groups
