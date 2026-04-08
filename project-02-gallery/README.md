@@ -74,13 +74,22 @@ Style your page by adding these CSS rules to your style sheet:
   - Set text align: center
   - Margin of 20px
 
-- `.controls` class rule:
-  - Set margin top to 20px
-
 - `#gallery-container` rule:
+  - Display property set to: grid;
   - Margin of `20px auto`
   - Max width of 600px
   - padding of 20px
+  - Set `grid-template-areas` property to these grid areas:
+    - title
+    - image
+    - caption
+    - btn-prev
+    - btn-pause
+    - btn-next
+
+- Rule for `h1`:
+  - Set `grid-area` to: title
+  - Margin set to zero (0)
 
 
 - `#gallery-img` rule:
@@ -88,6 +97,8 @@ Style your page by adding these CSS rules to your style sheet:
   - height set to auto
   - border set to 1px solid black
   - border radius of 4px
+  - gap of 15px
+
 
 
 - `#gallery-caption` rule:
