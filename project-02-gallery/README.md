@@ -62,7 +62,7 @@ To your `starter.html` page body:
      - Third button has `id` of `next-btn` and button text of **Next** 
 ---
 
-<!--
+
 
 
 ## Part 2: `starter.css`
@@ -137,7 +137,7 @@ Style your page by adding these CSS rules to your style sheet:
   - Inside the media query, write a rule for `#gallery-container`:
     - Set `grid-template-columns` to: `1fr 1fr 1fr`
     - Set `grid-template-areas` property to these grid areas:
-         `"title title title"
+        `"title title title"
          "image image image"
          "caption caption caption"
          "btn-prev btn-pause btn-next";`
@@ -316,7 +316,7 @@ window.addEventListener("load", startTimer);
 ---
 
 
--->
+
 
 
 
