@@ -131,6 +131,16 @@ Style your page by adding these CSS rules to your style sheet:
 
 - `button:hover` pseudo-class:
   - background color of your choice (use different color than the button background color)
+
+- Desktop view media query
+  - Set `min-width` property to: 600px
+  - Inside the media query, write a rule for `#gallery-container`:
+    - Set `grid-template-columns` to: `1fr 1fr 1fr`
+    - Set `grid-template-areas` property to these grid areas:
+         `"title title title"
+         "image image image"
+         "caption caption caption"
+         "btn-prev btn-pause btn-next";`
  
 ## Part 3: Variables & Arrays
 
