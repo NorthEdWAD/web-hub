@@ -11,7 +11,7 @@
 
 - Discuss gallery code rubric
 
-- SMALL GROUPS: Code critique (Version A & Version B)
+- SMALL GROUPS: [Code critique](https://docs.google.com/presentation/d/1DDLaOq5IsKp6ckclfZvSkbBLrCrj-g_jtiPfpq5OdEQ/edit?usp=sharing) (Version A & Version B)
 
 - WHOLE GROUP: Discuss conclusions/observations
 
