@@ -93,17 +93,29 @@ Style your page by adding these CSS rules to your style sheet:
 
 
 - `#gallery-img` rule:
+  - Set `grid-area` to: image
   - Max width set to 100%
   - height set to auto
   - border set to 1px solid black
   - border radius of 4px
+  - Set `justify-self` to: center
   - gap of 15px
 
 
 
 - `#gallery-caption` rule:
-  - margin top set to 10px
+  - Set `grid-area` to: caption
+  - margin set to zero (0)
   - font size set to 18px
+
+- `#prev-btn` rule:
+  - Set `grid-area` to: btn-prev
+
+- `#pause-btn` rule:
+  - Set `grid-area` to: btn-pause
+
+- `#next-btn` rule:
+  - Set `grid-area` to: btn-next
 
 
 - `button` rule:
@@ -118,7 +130,7 @@ Style your page by adding these CSS rules to your style sheet:
 
 
 - `button:hover` pseudo-class:
-  - background color of your choice (different than the button background color)
+  - background color of your choice (use different color than the button background color)
  
 ## Part 3: Variables & Arrays
 
