@@ -23,9 +23,12 @@
 
 
 ## 🛠️ Project Requirements
-* [ ] Text
-* [ ] Text
-* [ ] Text
+
+Your project is complete when you have completed these tasks:
+
+* [ ] Updated the comment block in your script (`starter.js`)
+* [ ] Created and called a function that multiplies two numbers and displays the result in the browser console
+* [ ] Wrote and called a customizable function that welcomes the user to your game *by their first name*
 
 ---
 
