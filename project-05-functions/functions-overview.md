@@ -59,12 +59,9 @@ function greetUser(firstName, membershipLevel) {
 greetUser("Mikey", "Silver");
 ```
 <details>
-<summary>Part 3: Adding Your JavaScript</summary>
+<summary>Part 3: Parts of a Function</summary>
 
-Text.
-  ```javascript
- const lastName;
-  ```
+[Parts of a JS Function](https://docs.google.com/presentation/d/1ojyOSdrTfv6mdMPPmsYwu8Qp5aDtOUJ9dgNBkHoFJoY/edit?usp=sharing)
 
 </details>
 
