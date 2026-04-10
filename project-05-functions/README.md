@@ -1,7 +1,7 @@
 # ⚡ Intro to JavaScript
 ## Working with Traditional Functions
 
-> **Objective:** Students will write and use traditional JS functions, including functions that take one or more parameters.  
+> **Objective:** Students will write and use traditional JS functions, including functions that return a value and take one or more parameters.  
 
 ---
 
