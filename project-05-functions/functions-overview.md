@@ -29,7 +29,8 @@ console.log(total);  // What will the output be?
 
 - Study the functions below
 - Based on your observations, how should you name your JS functions?
-  ```javascript
+
+```javascript
   // Example 1
   // Get WIDTH of rectangular room
 function getWidth() {
@@ -57,8 +58,6 @@ function greetUser(firstName, membershipLevel) {
 // Calling the function with different arguments
 greetUser("Mikey", "Silver");
 ```
-
-
 <details>
 <summary>Part 3: Adding Your JavaScript</summary>
 
