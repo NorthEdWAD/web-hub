@@ -1,5 +1,5 @@
 # ⚡ Intro to JavaScript
-## Working with Traditional Functions
+## Evidence Project
 
 > **Objective:** Students will write functions that return a value, and these values will be passed as arguments to another function that calculates and displays the area of a right triangle.  
 
