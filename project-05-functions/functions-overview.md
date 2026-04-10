@@ -21,7 +21,7 @@ const total = calcSum(5, 3);
 console.log(total);  // What will the output be?
 
 
-   ```
+```
 </details>
 
 <details>
