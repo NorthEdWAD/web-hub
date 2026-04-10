@@ -3,7 +3,7 @@
 
 ### Name _______________________________________
 
-*Directions:**  
+*Directions:*
 
 - Answer the questions below about traditional JavaScript functions
 - Give your answer sheet to your teacher when you are finished today
