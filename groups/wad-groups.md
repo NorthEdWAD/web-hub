@@ -1,22 +1,19 @@
-# For Today | WED 08 APR 2026
+# For Today | MON 13 APR 2026
 
 - SSR
 
 - Reminders/Announcements
-  - Career Fair (THU)
-  - Mock interviews
   - Practice certification exam (FRI)  
 
-- Warm-Up: Resume critique
+- Warm-Up: Rules for naming JS variables
 
-- Discuss gallery code rubric
+- View JS-powered slideshow code (functions)
 
 - SMALL GROUPS: [Code critique](https://docs.google.com/presentation/d/1DDLaOq5IsKp6ckclfZvSkbBLrCrj-g_jtiPfpq5OdEQ/edit?usp=sharing) (Version A & Version B)
 
 - WHOLE GROUP: Discuss conclusions/observations
 
-- Finish/check @ workstation
-  - Array methods project (from yesterday)
+- Exit Ticket: Functions Basics
  
 ---
 ## AM Groups
