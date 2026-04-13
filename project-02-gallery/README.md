@@ -15,7 +15,7 @@
 
 ## 💡 Resources  
 
-See the `examples` folder.
+- Examples: [Traditional functions](https://github.com/NorthEdWAD/my-examples/blob/main/traditional-function-example.js)
 
 ## 🛠️ Project Requirements
 
