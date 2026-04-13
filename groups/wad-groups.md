@@ -18,7 +18,7 @@
 ---
 ## AM Groups
 
-| Group 1   | Group 2   | Group 3   | Group 5   | Group 6   |
+| Group 1   | Group 2   | Group 3   | Group 4   | Group 5   |
 |-----------|-----------|-----------|-----------|-----------|
 | Conner A. | Koen K.   | Bryce P.  | Charles P.| Danyl. D. |
 | Aiden B.  |           | Shay V.   | Trent D.  | Elliot C. |
