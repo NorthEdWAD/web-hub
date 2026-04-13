@@ -7,7 +7,7 @@
 ---
 
 ## 📅 **Due Date**
-- **Final Submission:** WED 15 APR 2026
+- **Final Submission:** WED 22 APR 2026
 
 ## 🚀 Getting Started
 1. **Download** the starter files from this repo.
