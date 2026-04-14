@@ -1,19 +1,26 @@
-# For Today | MON 13 APR 2026
+# For Today | TUE 14 APR 2026
 
 - SSR
 
-- Reminders/Announcements
-  - Practice certification exam (FRI)  
+- Warm-Up: Complete **Functions Basics** handout + turn in
 
-- Warm-Up: Rules for naming JS variables
+- Brainstorming: List some parts of a JS function
+  - Handout: Parts of a JavaScript Function
+ 
+- Practice: Using Parameters & Arguments with Functions
 
-- View JS-powered slideshow code (functions)
-
-- SMALL GROUPS: [Code critique](https://docs.google.com/presentation/d/1DDLaOq5IsKp6ckclfZvSkbBLrCrj-g_jtiPfpq5OdEQ/edit?usp=sharing) (Version A & Version B)
-
-- WHOLE GROUP: Discuss conclusions/observations
-
-- Exit Ticket: Functions Basics
+  - Demo: Function that uses parameters and arguments
+    - Technique 1
+    - Technique 2
+    - `return` statement
+   
+- Independent Work: Write TWO (2) functions
+  - Function 1: Returns a number
+  - Function 2: Returns a string
+ 
+- Slideshow Code (from WAD Wiki page)
+  - Write HTML
+  - Write CSS as shown
  
 ---
 ## AM Groups
