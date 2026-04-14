@@ -31,15 +31,8 @@
 <details>
 <summary>Part 3: Use Comparison Operators</summary>
 
-- Create file named `script.js` in project folder.
-- Link `script.js` to `index.html` by adding this code just above the `</body>` tag:
-  ```html
-  <script src="script.js"></script>
-  ```
-- Add a click event to all navigation buttons:
-  - When button is clicked, log its text to browser console.
-  - Change button's background color to `#007BFF` when clicked.
-- Test your website in both Chrome and Firefox to make sure everything works.
+- Text here
+- 
 </details>
 
 
