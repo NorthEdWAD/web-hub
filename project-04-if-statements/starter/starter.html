@@ -1,17 +1,75 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Starter Page</title>
-    <link rel="stylesheet" href="starter.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rollercoaster Height Check</title>
+    <style>
+        body { font-family: sans-serif; margin: 40px; }
+
+        .container { 
+            max-width: 400px; 
+            border: 1px solid #ccc; 
+            padding: 20px; 
+            border-radius: 8px; 
+        }
+        input { padding: 8px; margin-bottom: 10px; width: 100%; box-sizing: border-box; }
+
+        button { 
+            padding: 10px 15px; 
+            background-color: #28a745; 
+            color: white; border: none; 
+            border-radius: 4px; 
+            cursor: pointer; 
+        }
+        #message { margin-top: 20px; font-weight: bold; }
+    </style>
 </head>
 <body>
 
+    <div class="container">
+        <h2>Rollercoaster Entry</h2>
+        <p>Enter your height in inches:</p>
+        
+        <input type="number" id="heightInput" placeholder="Enter height in inches">
+        <button onclick="checkHeight()">Check Height</button>
 
+        <p id="message"></p>
+    </div>
 
+    <script>
+        function checkHeight() {
+            // TODO 1: Get user's height from input field using getElementById and the value property
+            const rawValue = 
 
+            // TODO 2: Explicitly convert value from input field to a number using parseFloat( ) function
+            // Save converted value to variable named 'height'
+            const height = parseFloat();
 
-	<script src="starter.js"></script>
+			// TODO 3: Define variable named display
+			// Use getElementById( ) method to point to <p> with an id of 'message'
+          
+
+            // TODO 4: Check if input is actually a valid number
+            // Was the input just an empty string?
+			// HINT: Use IF statement and triple quotes (===) to check for empty string
+            if (rawValue === "") {
+                display.textContent = "Please enter your height first!";
+                display.style.color = "orange";
+            } 
+            // TODO 5: Use if-else to check height requirement
+			// Is height GREATER THAN OR EQUAL TO 65?
+            else if (height >= 65) {
+                display.textContent = "Add confirmation message here...";
+                // Set .style.color to green 
+                display.
+            } else {
+                display.textContent = "Add warnig here...";
+                // Set .style.color to red 
+                display.
+            }
+        }
+    </script>
+
 </body>
 </html>
