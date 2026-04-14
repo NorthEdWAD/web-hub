@@ -2,6 +2,8 @@
 // 14 APR 2026
 // Parameters & Arguments Practice
 
+// OBJECTIVE: To understand the difference between parameters and arguments and to use both with a traditional function
+
 // PART 1
 // TODO: Write a JS function that takes two parameters -- firstName and homeSchool
 // Function should RETURN a template string similar to this example: My name is Mike and my home school is TC Central.
