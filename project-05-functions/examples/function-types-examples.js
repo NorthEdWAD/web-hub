@@ -16,16 +16,21 @@ function calcProduct(num1, num2) {
     return myProduct = num1 * num2;
 }
 
-
-
-
-
 // Declare variables
 const firstNum = 5;
 const secondNum = 3;
 // Call calcProduct ( ) function
 const finalAnswer = calcProduct(firstNum, secondNum);
 console.log(`${firstNum} times ${secondNum} is: ${finalAnswer}`);
+
+
+
+
+
+
+
+
+
 
 // Define function that multiplies two numbers together
 function multiplyTwoNumbers(num3, num4) {
