@@ -13,7 +13,7 @@ function calcProduct(num1, num2) {
 // VER 2.0
 function calcProduct(num1, num2) {
     // Return result of calculation directly to line in script where function was called from
-    return myProduct = num1 * num2;
+    return num1 * num2;
 }
 
 // Declare variables
