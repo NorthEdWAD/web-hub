@@ -1,9 +1,23 @@
 // Traditional function 
 // Using variables to send arguments to function
+// VER 1.0 
 function calcProduct(num1, num2) {
+    // myProduct stores result of calculation
     const myProduct = num1 * num2;
+    // Return (send back) the value stored in the myProduct variabld
     return myProduct;
 }
+
+
+// VER 2.0
+function calcProduct(num1, num2) {
+    // Return result of calculation directly to line in script where function was called from
+    return myProduct = num1 * num2;
+}
+
+
+
+
 
 // Declare variables
 const firstNum = 5;
