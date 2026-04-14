@@ -2,7 +2,7 @@
 // 05 OCT 20XX
 // Project
 
-const greeting = 'Hello!;
+const greeting = 'Greetings, Earthling!';
 console.log(greeting);
 
 
