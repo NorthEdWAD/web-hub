@@ -71,3 +71,11 @@ const addArrow = (a, b) => a + b;
 console.log(addTraditional(5, 3)); // Output: 8
 console.log(addExpression(5, 3));   // Output: 8
 console.log(addArrow(5, 3));        // Output: 8
+
+
+
+
+
+
+
+
