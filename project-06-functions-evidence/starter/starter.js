@@ -2,7 +2,7 @@
 // 05 OCT 20XX
 // Project
 
-const greeting = 'Hello! How are you today?';
+const greeting = 'Hello!;
 console.log(greeting);
 
 
