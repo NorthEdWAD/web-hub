@@ -65,7 +65,7 @@ To your `starter.html` page body:
 ---
 
 
-<!--
+
 
 ## Part 2: `starter.css`
 
@@ -147,7 +147,9 @@ Style your page by adding these CSS rules to your style sheet:
         "caption caption caption"  
         "btn-prev btn-pause btn-next";
     ```
- 
+
+<!--
+
 ## Part 3: Variables & Arrays
 
 Write your JS in the `starter.js` file.  Remember to link your `starter.js` file to your web page.
