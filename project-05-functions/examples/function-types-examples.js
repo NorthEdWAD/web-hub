@@ -1,5 +1,6 @@
 // Traditional function 
 // Using variables to send arguments to function
+
 // VER 1.0 
 function calcProduct(num1, num2) {
     // myProduct stores result of calculation
