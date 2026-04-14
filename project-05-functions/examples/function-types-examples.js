@@ -10,6 +10,15 @@ function calcProduct(num1, num2) {
 }
 
 
+// Declare variables
+const firstNum = 5;
+const secondNum = 3;
+// Call calcProduct ( ) function
+const finalAnswer = calcProduct(firstNum, secondNum);
+// alert ( ) method creates a pop-up window
+alert(`${firstNum} times ${secondNum} is: ${finalAnswer}`);
+
+
 // VER 2.0
 function calcProduct(num1, num2) {
     // Return result of calculation directly to line in script where function was called from
