@@ -1,4 +1,5 @@
-# Web Project: Multi-Page Website
+# Intro to JavaScript
+## IF Statements
 
 **Due Dates:**
 - Part 1: April 5
@@ -8,25 +9,17 @@
 ---
 
 <details>
-<summary>Part 1: Setup & HTML Structure</summary>
+<summary>Part 1: Write a Basic IF Statement</summary>
 
-1. Clone this repo.
-2. Create an `index.html` file with the following structure:
-   ```html
-   <!DOCTYPE html>
-   <html>
-     <head>
-       <title>My Project</title>
-     </head>
-     <body>
-       <!-- Your code here -->
-     </body>
-   </html>
-   ```
+1. Create a new PUBLIC GitHub repo: `if-statements`
+2. Using the GitHub editor, add a new file to this repo: `basic-if.js`
+3. In `basic-if.js`, write a basic `if` statement that:
+   - takes your **age** as input and checks to see if you are old enough to drive
+     - IF your age is GREATER THAN OR EQUAL TO 18, use alert ( ) to display the message: You are old enough to drive!
 </details>
 
 <details>
-<summary>Part 2: Page Styling</summary>
+<summary>Part 2: Use if...else for two outcomes</summary>
 
 - Create a file named `styles.css` in your project folder.
 - Link the CSS file to your `index.html` by adding this line inside the `<head>` tag:
@@ -40,7 +33,7 @@
 </details>
 
 <details>
-<summary>Part 3: Adding Your JavaScript</summary>
+<summary>Part 3: Use Comparison Operators</summary>
 
 - Create file named `script.js` in project folder.
 - Link `script.js` to `index.html` by adding this code just above the `</body>` tag:
