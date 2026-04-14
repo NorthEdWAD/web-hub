@@ -21,7 +21,8 @@ const firstNum = 5;
 const secondNum = 3;
 // Call calcProduct ( ) function
 const finalAnswer = calcProduct(firstNum, secondNum);
-console.log(`${firstNum} times ${secondNum} is: ${finalAnswer}`);
+// alert ( ) method creates a pop-up window
+alert(`${firstNum} times ${secondNum} is: ${finalAnswer}`);
 
 
 
