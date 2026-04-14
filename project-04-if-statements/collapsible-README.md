@@ -21,15 +21,11 @@
 <details>
 <summary>Part 2: Use if...else for two outcomes</summary>
 
-- Create a file named `styles.css` in your project folder.
-- Link the CSS file to your `index.html` by adding this line inside the `<head>` tag:
-  ```html
-  <link rel="stylesheet" href="styles.css">
-  ```
-- Style the following elements:
-  - Set `<body>` background color to `#f4f4f4`.
-  - Apply dark background and light text to `<header>`.
-  - Center-align `<footer>` text.
+- Modify your `basic-if.js` code so that JavaScript can handle TWO possible outcomes
+  - Use an `if-else` statement to do this
+    - Check to see if you are old enough to drive
+      - IF your age is GREATER THAN OR EQUAL TO 18, use alert ( ) to display the message: You are old enough to drive!
+      - OTHERWISE, use  alert ( ) to display the message: Sorry! You are NOT old enough to drive!
 </details>
 
 <details>
