@@ -1,26 +1,19 @@
-# For Today | TUE 14 APR 2026
+# For Today | MON 20 APR 2026
 
 - SSR
 
-- Warm-Up: Complete **Functions Basics** handout + turn in
+- Demo: Returning a value from a function 
 
-- Brainstorming: List some parts of a JS function
-  - Handout: Parts of a JavaScript Function
- 
-- Practice: Using Parameters & Arguments with Functions
+- On Whiteboard:
+  - Returning values from functions
+  - Passing RETURNED values as **arguments** to another function
 
-  - Demo: Function that uses parameters and arguments
-    - Technique 1
-    - Technique 2
-    - `return` statement
-   
-- Independent Work: Write TWO (2) functions
-  - Function 1: Returns a number
-  - Function 2: Returns a string
- 
-- Slideshow Code (from WAD Wiki page)
-  - Write HTML
-  - Write CSS as shown
+- Demo: RETURNED values as **arguments** for another function
+
+- Practice:
+  - Multiple traditional functions
+  - Use RETURNED `length` and `width` values to calculate AREA of rectangular room
+  - One function just says WHO wrote script + WHAT script will do
  
 ---
 ## AM Groups
