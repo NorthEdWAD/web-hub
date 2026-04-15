@@ -19,6 +19,8 @@ const fName = "Mike";
 const school = "TC Central";
 // Use the alert() method to display the message in a pop-up window
 const message = introduceStudent(fName, school);
+
+
 alert(message);
 
 
