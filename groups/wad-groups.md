@@ -1,20 +1,40 @@
-# For Today | MON 20 APR 2026
+# Today's Agenda
 
-- SSR
+## Objective
 
-- Demo: Returning a value from a function 
+**Due Dates:**
+- Activity 1: April 5
+- Activity 2: April 8
+- Activity 3: April 12
 
-- On Whiteboard:
-  - Returning values from functions
-  - Passing RETURNED values as **arguments** to another function
+---
 
-- Demo: RETURNED values as **arguments** for another function
+<details>
+<summary>Activity 1</summary>
 
-- Practice:
-  - Multiple traditional functions
-  - Use RETURNED `length` and `width` values to calculate AREA of rectangular room
-  - One function just says WHO wrote script + WHAT script will do
- 
+1. Clone this repo.
+2. Create an `index.html` file with the following structure:
+```javascript
+  const firstName = "Mikey";
+```
+</details>
+
+<details>
+<summary>Activity 2</summary>
+
+- Text
+```javascript
+const lastName = "Smith";
+```
+</details>
+
+<details>
+<summary>Activity 3</summary>
+
+- Text
+</details>
+
+
 ---
 ## AM Groups
 
