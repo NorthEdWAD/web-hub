@@ -38,12 +38,5 @@ const lastName = "Smith";
 
 
 ---
-## AM Groups
-
-
-
-
-
-## PM Groups
 
 
