@@ -9,6 +9,10 @@
 
 ---
 
+[Groups & Tasks](https://docs.google.com/presentation/d/1TjV0U4Yr63g8pPauM_8-BNBi1fYXF6hnyKDrLJtda-0/edit?usp=drive_link)
+
+---
+
 <details>
 <summary>Activity 1</summary>
 
@@ -38,18 +42,10 @@ const lastName = "Smith";
 ---
 ## AM Groups
 
-| Group 1   | Group 2   | Group 3   | Group 4   | Group 5   |
-|-----------|-----------|-----------|-----------|-----------|
-| Conner A. | Koen K.   | Bryce P.  | Charles P.| Danyl. D. |
-| Aiden B.  |           | Shay V.   | Trent D.  | Elliot C. |
-|           |           |           |           |           |
+
 
 
 
 ## PM Groups
 
-| Group 1   | Group 2   | Group 3   | Group 5   | Group 6   |
-|-----------|-----------|-----------|-----------|-----------|
-| Jed F.    | Kohen L.  | Aidan M.  |           |           |
-| Noah H.   | Andrew P. | Leo M.    |           |           |
-| PJ        |           |           |           |           |
+
