@@ -2,10 +2,8 @@
 
 ## Objective
 
-**Due Dates:**
-- Activity 1: April 5
-- Activity 2: April 8
-- Activity 3: April 12
+By the end of class today, students will be able to...
+
 
 ---
 
