@@ -22,6 +22,10 @@ const greetArrow = () => {
   return "Hello, world!";
 };
 
+// Call the greetArrow arrow function
+// This function doesn't take any parameters
+console.log(greetArrow());
+
 // Function 2: Takes one parameter named number
 // Traditional function
 function square(number) {
@@ -32,6 +36,9 @@ const squareArrow = (number) => {
   return number * number;
 };
 
+// Call the squareArrow function
+console.log(squareArrow(10)); // Output: 100
+
 // Function 3: Takes two parameters (num1 and num2)
 // Traditional function
 function addNumbers(num1, num2) {
@@ -41,4 +48,9 @@ function addNumbers(num1, num2) {
 const addNumbersArrow = (num1, num2) => {
   return num1 + num2;
 };
+
+// Call the addNumbersArrow arrow function
+console.log(addNumbersArrow(3, 10)); // Output: 13
 ```
+
+
