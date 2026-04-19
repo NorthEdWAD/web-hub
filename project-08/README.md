@@ -38,7 +38,7 @@ Your project is complete when you have:
 
 ---
 
-## 🛠️ **Kicking Off Your Project**
+## 🛠️ **Getting Started**
 
 <details>
 <summary>Part 1: Project Setup</summary>
@@ -55,6 +55,7 @@ Your project is complete when you have:
 - Rewrite the traditional functions in `starter.js` as *arrow functions*.
 - Run your JavaScript to make sure it works.
 - Correct any JavaScript errors.
+
 </details>
 
 <details>
