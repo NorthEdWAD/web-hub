@@ -39,7 +39,7 @@ Your project is complete when you have:
 
 ---
 
-## 🛠️ **Getting Started**
+## 🛠️ **Kicking Off Your Project**
 
 <details>
 <summary>Part 1: Setup & HTML Structure</summary>
