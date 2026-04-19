@@ -1,10 +1,5 @@
 # 🎨 **Practice: JS Arrow Functions**  
 
-**Due Dates:**
-- Part 1: April 5
-- Part 2: April 8
-- Part 3: April 12
-
 ---
 
 **Objective:** 
