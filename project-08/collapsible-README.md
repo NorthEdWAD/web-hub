@@ -12,7 +12,7 @@
 
 ---
 
-## 📅 **Deadline & Submission**
+## 📅 **Submitting Your Work**
 - **Due:** DDD 00 MMM 2026
 - **How to Submit:**
   - Upload work to your PUBLIC GitHub repo.
