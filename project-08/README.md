@@ -46,49 +46,29 @@ Your project is complete when you have:
 ## 🛠️ **Kicking Off Your Project**
 
 <details>
-<summary>Part 1: Setup & HTML Structure</summary>
+<summary>Part 1: Project Setup</summary>
 
-1. Clone this repo.
-2. Create an `index.html` file with the following structure:
-   ```html
-   <!DOCTYPE html>
-   <html>
-     <head>
-       <title>My Project</title>
-     </head>
-     <body>
-       <!-- Your code here -->
-     </body>
-   </html>
-   ```
+1. Create a NEW repo on GitHub.
+2. Download the starter files from GitHub to a NEW folder on your laptop.
+3. Follow the instructions in the `README.md` file.
 </details>
 
 <details>
-<summary>Part 2: Page Styling</summary>
+<summary>Part 2: Writing Your JavaScript</summary>
 
-- Create a file named `styles.css` in your project folder.
-- Link the CSS file to your `index.html` by adding this line inside the `<head>` tag:
-  ```html
-  <link rel="stylesheet" href="styles.css">
-  ```
-- Style the following elements:
-  - Set `<body>` background color to `#f4f4f4`.
-  - Apply dark background and light text to `<header>`.
-  - Center-align `<footer>` text.
+- Open the `starter.js` file in VS Code.
+- Rewrite the traditional functions in `starter.js` as *arrow functions*.
+- Run your JavaScript to make sure it works.
+- Correct any JavaScript errors.
 </details>
 
 <details>
-<summary>Part 3: Adding Your JavaScript</summary>
+<summary>Part 3: Submit Your Work</summary>
 
-- Create file named `script.js` in project folder.
-- Link `script.js` to `index.html` by adding this code just above the `</body>` tag:
-  ```html
-  <script src="script.js"></script>
-  ```
-- Add a click event to all navigation buttons:
-  - When button is clicked, log its text to browser console.
-  - Change button's background color to `#007BFF` when clicked.
-- Test your website in both Chrome and Firefox to make sure everything works.
+- Upload your revised `starter.js` file to your GitHub repo.
+- Copy/paste the web address of the repo.
+- Email the repo web address to your teacher
+  - Email subject line: `Arrow Functions Practice`
 </details>
 
 ---
