@@ -1,4 +1,4 @@
-# 🎨 **Project**  
+# 🎨 **Practice: JS Arrow Functions**  
 
 **Due Dates:**
 - Part 1: April 5
@@ -8,17 +8,21 @@
 ---
 
 **Objective:** 
-> Create 
+> You'll learn how to rewrite traditional JS functions as arrow functions.
+>
+> Arrow functions are shorter -- use less code -- than traditional functions.
+>
+> Arrow functions work best when your traditional function is very simple. 
 
 ---
 
 ## 📅 **Submitting Your Work**
-- **Due:** DDD 00 MMM 2026
+- **Due:** WED 22 APR 2026
 - **How to Submit:**
-  - Upload work to your PUBLIC GitHub repo.
+  - Upload work to your PUBLIC GitHub repo: `arrow-functions`
   - Copy web address of repo.
   - Email repo web address to teacher.
-     - Email SUBJECT LINE = Project title
+     - Email SUBJECT LINE = `arrow-functions` Practice
 
 ---
 
@@ -26,9 +30,9 @@
 
 Your project is complete when you have:
 
-- [ ] Requirement
-- [ ] Requirement
-- [ ] Requirement
+- [ ] Updated your comment block
+- [ ] Rewritten each traditional function as a modern *arrow function*
+- [ ] Copied and emailed the web address of the repo that contains your work to your teacher
 
 ---
 
