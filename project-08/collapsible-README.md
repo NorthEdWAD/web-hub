@@ -55,3 +55,48 @@
 
 
 ---
+
+
+# 🎨 **Project**  
+
+**Objective:** Create 
+
+---
+
+## 📅 **Deadline & Submission**
+- **Due:** DDD 00 MMM 2026
+- **How to Submit:**
+  - Upload work to your PUBLIC GitHub repo.
+  - Copy web address of repo.
+  - Email repo web address to teacher.
+     - Email SUBJECT LINE = Project title
+
+---
+
+## ✅ **Requirements**
+
+Your project is complete when you have:
+
+- [ ] Requirement
+- [ ] Requirement
+- [ ] Requirement
+
+---
+
+## 🔗 **Resources**
+- [Link](url)
+- See starter files
+- [General web design resources](https://github.com/NorthEdWAD/web-hub/wiki)
+
+---
+
+## 🛠️ **Getting Started**
+1. Read background info and instructions.
+2. Download starter files to your computer.
+3. Write code as directed.
+4. Test code and correct any errors.
+5. Upload work to project repo on Github.
+
+---
+
+
