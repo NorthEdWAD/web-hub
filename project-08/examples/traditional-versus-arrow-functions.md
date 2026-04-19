@@ -50,7 +50,7 @@ const addNumbersArrow = (num1, num2) => {
 };
 
 // Call the addNumbersArrow arrow function
-console.log(addNumbersArrow(3, 4, 10)); // Output: 17
+console.log(addNumbersArrow(3, 10)); // Output: 13
 ```
 
 
