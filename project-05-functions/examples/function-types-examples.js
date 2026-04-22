@@ -5,7 +5,7 @@
 function calcProduct(num1, num2) {
     // myProduct stores result of calculation
     const myProduct = num1 * num2;
-    // Return (send back) the value stored in the myProduct variabld
+    // Return (send back) the value stored in the myProduct variable
     return myProduct;
 }
 
