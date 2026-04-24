@@ -3,6 +3,7 @@
 **Overview:**
 
 - You will build a JavaScript project that lets users swap out one image for another when they mouse over the image that displays when the web page loads in the browser.
+- You'll also use CSS Grid to create the page layout
 
 ---
 
