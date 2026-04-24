@@ -20,17 +20,52 @@ In `starter.html`:
 </details>
 
 <details>
-<summary>Part 2: Page Styling</summary>
+<summary>Part 2: Your CSS</summary>
 
-- Create a file named `styles.css` in your project folder.
-- Link the CSS file to your `index.html` by adding this line inside the `<head>` tag:
-  ```html
-  <link rel="stylesheet" href="styles.css">
-  ```
-- Style the following elements:
-  - Set `<body>` background color to `#f4f4f4`.
-  - Apply dark background and light text to `<header>`.
-  - Center-align `<footer>` text.
+- To your `starter.css` file add these CSS rules:
+
+#### body rule:
+
+- Set up as a CSS Grid container
+- Set `height` to **100vh** so page uses full height of browser window
+- Set `align-items` to center
+- Set `justify-items` to center
+- Set your `background-color`
+- Set `margin` to zero (0)
+- Apply a `font-family`
+
+#### image-container class:
+
+- Also set up as a CSS Grid container
+- Set `justify-items` to center
+- Apply `gap` of 15 - 20 pixels
+- Set your `background-color`
+- Set `padding` to 30px
+- Set `border-radius` to 15 - 20px
+- Option: Apply the `box-shadow` property
+
+#### #model-frame rule:
+
+- Set `width` to 450px
+- Set `height` to 350px
+- Set `object-fit` to cover
+- Set `border-radius` to 12px
+- Set `cursor` to pointer
+- Set `transition` property to: `transform 0.3s ease` (for a simple animation effect)
+
+#### #model-frame:hover pseudo-class:
+
+- Use `transform` property and set it to: `scale(1.02)`
+  - This will apply a subtle lift or grow effect to the image when user mouses over the image 
+
+#### h2 rule
+
+- Set `margin` to zero (0)
+- Apply a text color using `color`
+- Set `text-transform` to uppercase
+- Set `letter-spacing` to 1px
+- Set `font-size` to **1.2rem**
+
 </details>
 
 <details>
