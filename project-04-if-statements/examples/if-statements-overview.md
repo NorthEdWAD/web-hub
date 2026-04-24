@@ -86,9 +86,6 @@ checkLogin("user", "wrong");  // Should alert "Access denied!"
 ```
 
 ---
-*Try solving it first! If you’d like, I can provide the step-by-step solution.*
-
----
 ## **🐞 Debugging Tip**
 **Use `console.log()` to debug conditions!**
 ```javascript
