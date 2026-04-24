@@ -6,6 +6,14 @@
 
 ---
 
+### Submitting Your Finished Code
+
+- Create a NEW public GitHub repo: `js-image-swap`
+- Upload your images and modified starter files to the repo
+- Copy/paste and email web address of repo to teacher
+
+---
+
 <details>
 <summary>Part 1: Setup & HTML Structure</summary>
 
