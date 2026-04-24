@@ -71,15 +71,32 @@ In `starter.html`:
 <details>
 <summary>Part 3: Adding Your JavaScript</summary>
 
-- Create file named `script.js` in project folder.
-- Link `script.js` to `index.html` by adding this code just above the `</body>` tag:
-  ```html
-  <script src="script.js"></script>
-  ```
-- Add a click event to all navigation buttons:
-  - When button is clicked, log its text to browser console.
-  - Change button's background color to `#007BFF` when clicked.
-- Test your website in both Chrome and Firefox to make sure everything works.
+To your `starter.js` file:
+
+- Create an array named `modelImages` and add the file names of two model images to it
+  - Remember to enclose the file names in a pair of quotation marks
+- Define a variable named `imgElement` and use `getElementById()` method to point to your `model-frame` element
+- To preload your second image into the browser cache, write this code:
+```javascript
+const preload = new Image();
+preload.src = modelImages[1]; // Points to the second image in your modelImages array
+```
+
+- Next, tell JS to listen for/wait for the `mouseenter` event (when user mouses over the image that displays when the page loads in the browser):
+```javascript
+imgElement.addEventListener('mouseenter', () => {
+     imgElement.src = modelImages[1];
+}); // Note the punctuation on this line!
+
+```
+
+- Finally, write the code for the `mouseleave` event (when user removes mouse pointer from the image that displays when the page loads in the browser):
+- Copy, paste and modify the `mouseenter` code from the previous step
+- Change the event from 'mouseenter` to `mouseleave`
+- Change the **index number** for the array image from [1] to [0]
+
+- Test your JavaScript in your web browser
+- Correct any errors or warnings listed in the `console` tab
 </details>
 
 
