@@ -66,25 +66,7 @@ In this example, the first element with the `class` of "intro" is selected, and 
 - You need to select an element by its `class`, `type`, or any other CSS selector.
 - You want to use a single method for various selection needs.
 
----
-
-## Practice Exercise
-1. Create an HTML page with a `<div>` that has an `id` of "content" and a `<p>` with a `class` of "text".
-2. Use `getElementById()` to change the background color of the "content" `<div>`.
-3. Use `querySelector()` to change the font family of the "text" `<p>`.
-
-```html
-<div id="content">
-  <p class="text">This is a paragraph.</p>
-</div>
-<script>
-  // Your code here
-</script>
-```
-
----
-
 ## Summary
 - `getElementById()` is ideal for selecting elements by their unique `id`.
 - `querySelector()` is more flexible the `getElementById()` because it can be used to target HTML elements using any CSS selector.
-- Both methods are essential tools for manipulating HTML elements with JavaScript.
+- Both methods let you use JavaScript to manipulate your web page elements.
