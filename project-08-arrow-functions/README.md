@@ -39,7 +39,7 @@ Your project is complete when you have:
 
 ## 🛠️ **Getting Started**
 
-*Click the arrow icon to expand the section.*
+*Click the arrow icon to expand/hide the section.*
 
 <details>
 <summary>Part 1: Project Setup</summary>
