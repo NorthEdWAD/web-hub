@@ -60,9 +60,9 @@ Your project is complete when you have:
 <details>
 <summary>Part 3: Submit Your Work</summary>
 
-- Upload revised `starter.js` file to your GitHub `arrow-functions` repo.
-- 
-  - Upload work to your PUBLIC GitHub repo: 
+- Upload revised `starter.js` file to your GitHub `arrow-functions` repo
+- Use Google Form to [submit link](https://forms.gle/8827Qqws6oNs7fFfA) to repo
+
 </details>
 
 ---
