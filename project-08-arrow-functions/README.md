@@ -60,9 +60,9 @@ Your project is complete when you have:
 <details>
 <summary>Part 3: Submit Your Work</summary>
 
-- Upload your revised `starter.js` file to your GitHub repo.
-- Copy/email repo web address to teacher
-  - Email subject line: `Arrow Functions Practice`
+- Upload revised `starter.js` file to your GitHub `arrow-functions` repo.
+- 
+  - Upload work to your PUBLIC GitHub repo: 
 </details>
 
 ---
