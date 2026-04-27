@@ -26,8 +26,7 @@ Your project is complete when you have:
 
 - [ ] Updated your comment block
 - [ ] Rewritten each traditional function as a modern *arrow function*
-- [ ] Copied and emailed the web address of the repo that contains your work to your teacher
-
+- [ ] Used Google Form to submit web address of repo
 ---
 
 ## 🔗 **Resources**
