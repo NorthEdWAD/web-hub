@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -42,17 +43,23 @@ p {
 }
 
 /* Light mode styles for the toggle paragraph */
+
+/* TODO 1: Write rule for id selector named toggleParagraph */
+/* HINT: Use dot (.) to link class named light-mode to toggleParagraph id selector */
 #toggleParagraph.light-mode {
-    background-color: #ffffff;
-    color: #333;
-    border: 2px solid #ddd;
+    background-color: /* Set to white */
+    color: /* Set to #333 */
+    border: /* Set to 2px solid and border color of your choice */
 }
 
 /* Dark mode styles for the toggle paragraph */
+
+/* TODO 2: Write rule for id selector named toggleParagraph */
+/* HINT: Use dot (.) to link class named dark-mode to toggleParagraph id selector */
 #toggleParagraph.dark-mode {
-    background-color: #2d2d2d;
-    color: #e0e0e0;
-    border: 2px solid #444;
+    background-color: /* Choose background color */
+    color: /* Choose text color */
+    border: /* Set to 2px solid and border color of your choice */
 }
 
 ul {
