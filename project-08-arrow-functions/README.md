@@ -26,7 +26,7 @@ Your project is complete when you have:
 
 - [ ] Updated your comment block
 - [ ] Rewritten each traditional function as a modern *arrow function*
-- [ ] Used Google Form to submit web address of repo
+- [ ] Used Google Form to [submit web address of repo](https://forms.gle/8827Qqws6oNs7fFfA)
 ---
 
 ## 🔗 **Resources**
