@@ -17,7 +17,7 @@
 **✅ Requirements:**
 - Add three different HTML elements to your page, e.g., an `<h1>`, a `<p>` and an `<ul>`
 - Linked JavaScript script to your web page
-- Used JS style property and two different properties to style each HTML element
+- Used JS style property and two different properties for EACH HTML element
   - View this [list of JS properties](https://www.w3schools.com/jsref/dom_obj_style.asp) you can use to style your three elements
 
 ---
