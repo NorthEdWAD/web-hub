@@ -25,6 +25,8 @@
 ---
 
  🔗 **Resources**
+
+- [Link to starter files](https://github.com/NorthEdWAD/web-hub/tree/main/project-01-dynamic-text/starter)
 - [Example: JavaScript Styling](https://www.tutorialrepublic.com/javascript-tutorial/javascript-dom-styling.php)
 
 ---
