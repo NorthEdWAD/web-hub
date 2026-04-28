@@ -116,7 +116,7 @@ imgElement.addEventListener('mouseenter', () => {
 - Finally, write the code for the `mouseleave` event (when user removes mouse pointer from the image that displays when the page loads in the browser):
 - Copy, paste and modify the `mouseenter` code from the previous step
 - Change the event from 'mouseenter` to `mouseleave`
-- Change the **index number** for the array image from [1] to [0]
+- Change the **index number** for the array image from `modelImages[1]` to `modelImages[0]`
 
 - Test your JavaScript in your web browser
 - Correct any errors or warnings listed in the `console` tab
