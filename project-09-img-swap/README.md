@@ -33,8 +33,6 @@ In `starter.html`:
 <details>
 <summary>Part 2: Your CSS</summary>
 
-### Making Your Page Look More Professional
-
 - Technically, you need just ONE CSS rule for this project:
 
 ```css
@@ -44,6 +42,8 @@ In `starter.html`:
 ```
 
 ---
+
+### Making Your Page Look More Professional
 
 - To make your project look more professional, though, add the following CSS rules:
 
