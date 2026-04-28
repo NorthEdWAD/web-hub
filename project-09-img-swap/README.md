@@ -22,10 +22,10 @@ In `starter.html`:
  - Set page title to: `JS Image Swap Page`
  - add `<div>` with class of `image-container` to page body
  - Inside the `<div>`:
-   - add an `<h2>` with text that says: Mouse Over The Image and See What Happens
+   - add an `<h2>` with text that says: Mouse Over The Image To Switch Images
    - add `<img>` element with id of `model-frame`
    - set image `src` to the file name of one of your two images for this project
-   - add short, descriptive `alt` attribute for your image
+   - add short, descriptive `alt` attribute for your initial image
 </details>
 
 <details>
