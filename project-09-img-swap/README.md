@@ -31,7 +31,18 @@ In `starter.html`:
 <details>
 <summary>Part 2: Your CSS</summary>
 
-- To your `starter.css` file add these CSS rules:
+
+- Technically, you need just ONE CSS rule for this project:
+
+```css
+#model-frame {
+     cursor: pointer;
+}
+```
+
+---
+
+- To make your project look more professional, though, add the following CSS rules:
 
 #### body rule:
 
@@ -53,7 +64,7 @@ In `starter.html`:
 - Set `border-radius` to 15 - 20px
 - Option: Apply the `box-shadow` property
 
-#### #model-frame rule:
+#### #model-frame rule (add these properties to your existing model-frame rule):
 
 - Set `width` to 450px
 - Set `height` to 350px
