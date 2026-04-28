@@ -8,6 +8,5 @@
 
 // TODO 2: Write an if-else statement that checks the weather conditions a
 // and tells the user what to do
-
-// If it's raining, use console.log() to tell the user to "Bring an umbrella!"
+// FOR EXAMPLE: If it's raining, use console.log() to tell the user to "Bring an umbrella!"
 // Otherwise, use console.log() to tell the user to "Enjoy the sunshine!"
