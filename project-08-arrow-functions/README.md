@@ -5,7 +5,7 @@
 **Objective:** 
 > You'll learn how to rewrite traditional JS functions as arrow functions.
 
-- Arrow functions are shorter -- use less code -- than traditional functions.
+- Arrow functions use less code than traditional functions.
 
 - Arrow functions work best when your traditional function is very simple. 
 
