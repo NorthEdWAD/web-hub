@@ -9,11 +9,9 @@
 - **Final Submission:** THU 16 APR 2026
 
 ## 🚀 Getting Started
-1. Create a new project folder named: `js-functions`
-2. **Download** the starter files from this repo into your project folder.
-3. Review the instructions below.
-4. Write and test your code, and correct any errors.
-5. Upload your work to your GitHub repo.
+1. Create **NEW** GitHub repo: `js-functions`
+2. Upload project code to the repo.
+3. Copy/paste repo web address into the [GitHub URL Form](https://forms.gle/diNodcRDNmEKQ5TW9)
 
 ## 💡 Resources  
 

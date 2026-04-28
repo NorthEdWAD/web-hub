@@ -9,9 +9,9 @@
 
 ### Submitting Your Finished Code
 
-- Create a NEW public GitHub repo: `js-image-swap`
-- Upload your images and modified starter files to the repo
-- Copy/paste and email web address of repo to teacher
+1. Create **NEW** GitHub repo: `js-image-swap`
+2. Upload project code to the repo.
+3. Copy/paste repo web address into the [GitHub URL Form](https://forms.gle/diNodcRDNmEKQ5TW9)
 
 ---
 

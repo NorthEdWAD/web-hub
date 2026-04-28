@@ -9,6 +9,12 @@
 
 ---
 
+### Submitting Your Work
+
+1. Create **NEW** GitHub repo: `template-areas`
+2. Upload project code to repo.
+3. Copy/paste repo web address into the [GitHub URL Form](https://forms.gle/diNodcRDNmEKQ5TW9)
+
 ### Hints
 
 - Set `width` of grid container to 750px

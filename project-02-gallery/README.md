@@ -35,11 +35,8 @@ Your project is complete when you have:
 
 ## 📤 Uploading Your Files to GitHub
 1. Go to your `js-slideshow` repo on GitHub (or create a **PUBLIC** `js-slideshow` repo if you don't have one).
-2. Click the **Add file** button > **Upload files**.
-3. **Drag and drop** your updated files into the repo.
-4. Scroll down, type "Final Submission," then click **Commit changes**.
-5. Email the web address of your `js-slideshow` to your teacher.
-   - Use "JS Slideshow" as the email **SUBJECT LINE** 
+2. Upload your project files to your repo.
+3. Copy/paste repo web address into the [GitHub URL Form](https://forms.gle/diNodcRDNmEKQ5TW9)
 
 ---
 

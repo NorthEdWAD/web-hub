@@ -10,10 +10,9 @@
 
 ## 🚀 Getting Started
 1. On your laptop, create a new project folder named: `functions-evidence`
-2. **Download** the starter files from the `functions-evidence` GitHub repo into your project folder.
-3. Review the project instructions below.
-4. Write and test your code, and correct any errors.
-5. Upload your work to your GitHub `functions-evidence` repo.
+2. Then create **NEW** GitHub repo: `functions-evidence`
+3. Upload project code to GitHub repo.
+4. Copy/paste repo web address into the [GitHub URL Form](https://forms.gle/diNodcRDNmEKQ5TW9)
 
 ## 💡 Resources  
 

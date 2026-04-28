@@ -15,7 +15,7 @@
 - **Due:** WED 29 APR 2026
 - **How to Submit:**
   - Upload work to your PUBLIC GitHub repo: `arrow-functions`
-  - Copy/paste repo web address into the [GitHub URL Form](https://forms.gle/diNodcRDNmEKQ5TW9)
+  - Copy/paste repo web address into [GitHub URL Form](https://forms.gle/diNodcRDNmEKQ5TW9)
 
 ---
 

@@ -1,10 +1,10 @@
 # Intro to JavaScript
 ## IF Statements
 
-**Due Dates:**
-- Part 1: April 00
-- Part 2: April 00
-- Part 3: April 00
+**Submitting Your Work**
+1. Create **NEW** GitHub repo: `js-if-statements`
+2. Upload project code to the repo.
+3. Copy/paste repo web address into the [GitHub URL Form](https://forms.gle/diNodcRDNmEKQ5TW9)
 
 ---
 
