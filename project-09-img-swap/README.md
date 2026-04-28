@@ -33,6 +33,7 @@ In `starter.html`:
 <details>
 <summary>Part 2: Your CSS</summary>
 
+### Making Your Page Look More Professional
 
 - Technically, you need just ONE CSS rule for this project:
 
