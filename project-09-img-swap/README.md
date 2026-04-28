@@ -15,7 +15,7 @@
 
 ---
 
-- Click the triangle icon to show/hide each section
+*Click the triangle icon to show/hide each section.*
 
 <details>
 <summary>Part 1: Setup & HTML Structure</summary>
