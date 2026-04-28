@@ -45,7 +45,7 @@ In `starter.html`:
 
 ### Making Your Page Look More Professional
 
-- To make your project look more professional, though, add the following CSS rules:
+*To make your project look more professional, though, add the following CSS rules:*
 
 #### #model-frame rule (add these properties to your existing model-frame rule):
 
