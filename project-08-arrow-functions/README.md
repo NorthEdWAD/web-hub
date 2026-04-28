@@ -31,7 +31,6 @@ Your project is complete when you have:
 ## 🔗 **Resources**
 - [Example: Traditional versus arrow functions](https://github.com/NorthEdWAD/my-examples/blob/main/traditional-versus-arrow-functions-example.md)
 - See starter files
-- [General web design resources](https://github.com/NorthEdWAD/web-hub/wiki)
 
 ---
 
