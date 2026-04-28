@@ -46,6 +46,15 @@ In `starter.html`:
 
 - To make your project look more professional, though, add the following CSS rules:
 
+#### #model-frame rule (add these properties to your existing model-frame rule):
+
+- Set `width` to 450px
+- Set `height` to 350px
+- Set `object-fit` to cover
+- Set `border-radius` to 12px
+- Set `cursor` to pointer
+- Set `transition` property to: `transform 0.3s ease` (for a simple animation effect)
+
 #### body rule:
 
 - Set up as a CSS Grid container
@@ -65,15 +74,6 @@ In `starter.html`:
 - Set `padding` to 30px
 - Set `border-radius` to 15 - 20px
 - Option: Apply the `box-shadow` property
-
-#### #model-frame rule (add these properties to your existing model-frame rule):
-
-- Set `width` to 450px
-- Set `height` to 350px
-- Set `object-fit` to cover
-- Set `border-radius` to 12px
-- Set `cursor` to pointer
-- Set `transition` property to: `transform 0.3s ease` (for a simple animation effect)
 
 #### #model-frame:hover pseudo-class:
 
