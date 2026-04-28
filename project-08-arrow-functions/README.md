@@ -15,8 +15,7 @@
 - **Due:** WED 29 APR 2026
 - **How to Submit:**
   - Upload work to your PUBLIC GitHub repo: `arrow-functions`
-  - Copy and email web address of repo to teacher
-     - Email SUBJECT LINE = `arrow-functions` Practice
+  - Copy/paste repo web address into the [GitHub URL Form](https://forms.gle/diNodcRDNmEKQ5TW9)
 
 ---
 
