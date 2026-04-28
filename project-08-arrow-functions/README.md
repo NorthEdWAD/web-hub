@@ -24,7 +24,7 @@ Your project is complete when you have:
 
 - [ ] Updated your comment block
 - [ ] Rewritten each traditional function as a modern *arrow function*
-- [ ] Submitted repo link using [GitHub URL Form](https://forms.gle/8827Qqws6oNs7fFfA)
+- [ ] Submitted repo link 
 ---
 
 ## 🔗 **Resources**
@@ -59,7 +59,7 @@ Your project is complete when you have:
 <summary>Part 3: Submit Your Work</summary>
 
 - Upload revised `starter.js` file to GitHub `arrow-functions` repo
-- Use Google Form to [submit link](https://forms.gle/8827Qqws6oNs7fFfA) to repo
+- Submit repo web address
 
 </details>
 
