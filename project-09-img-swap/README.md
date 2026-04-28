@@ -34,11 +34,7 @@ In `starter.html`:
 <summary>Part 2: Your CSS</summary>
 
 
-
-
 - Technically, you need just ONE CSS rule for this project:
-
-- 
 
 ```css
 #model-frame {
