@@ -1,9 +1,8 @@
-// Mike Jenkins
-// 05 OCT 20XX
-// Project
+// First and last name 
+// Current date
+// JS Image Swap Project
 
-const greeting = 'Hello! How are you today?';
-console.log(greeting);
+
 
 
 
