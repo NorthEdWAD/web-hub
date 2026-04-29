@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS Dynamic Styling Demo</title>
+</head>
+<body>
+
+    <h1 id="main-heading">North Ed Career Tech</h1>
+
+    <h3 class="subheading">Web & App Development</h3>
+
+	<p id="filler-text">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+
+    <script>
+
+        // Using getElementById() to target the h1 by its id attribute
+        const h1Element = document.getElementById('main-heading');
+		h1Element.style.fontStyle = 'italic';
+		h1Element.style.letterSpacing = '5px';
+
+        // Using querySelector() to target the h3 by its class attribute
+        const h3Element = document.querySelector('.subheading');
+        h3Element.style.color = 'purple';
+
+		// Using querySelector() to target the paragraph by its id attribute
+        const paraElement = document.querySelector('#filler-text');
+        paraElement.style.fontVariant = 'small-caps';
+		paraElement.style.color = '#f30'; /* Short form of hex color code */
+	
+	</script>
+</body>
+</html>
+
