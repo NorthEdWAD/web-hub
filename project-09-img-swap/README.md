@@ -92,7 +92,7 @@ In `starter.html`:
 </details>
 
 <details>
-<summary>Part 3: Adding Your JavaScript</summary>
+<summary>Part 3: Adding Your JavaScript</summary>  
 
 To your `starter.js` file:
 
