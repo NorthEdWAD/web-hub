@@ -94,7 +94,7 @@ In `starter.html`:
 <details>
 <summary>Part 3: Adding Your JavaScript</summary>  
 
-To your `starter.js` file:
+To your `starter.js` file:  
 
 - Create an array named `modelImages` and add the file names of two model images to it
   - Remember to enclose the file names in a pair of quotation marks
