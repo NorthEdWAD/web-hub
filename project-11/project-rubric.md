@@ -19,20 +19,20 @@
 
 **Total Points: 32**
 
-- **28–32 points (A):** Excellent — All requirements met with high quality; site is polished, interactive, and demonstrates strong understanding of HTML, CSS, and JavaScript.
-- **24–27 points (B):** Proficient — All major requirements met; minor issues with responsiveness, interactivity, or code organization.
-- **20–23 points (C):** Developing — Most requirements attempted; noticeable gaps in functionality, responsiveness, or code quality; site is usable but has bugs.
-- **16–19 points (D):** Beginning — Significant gaps in requirements; multiple broken features or incomplete implementations; site barely functions.
-- **Below 16 points (F):** Does not meet expectations — Missing major components or requirements; site does not function as intended.
+- **28–32 points (A):** Excellent — All requirements met; site is polished, interactive, and demonstrates true understanding of HTML, CSS, and JavaScript.
+- **24–27 points (B):** Proficient — All major requirements met; minor problems with responsiveness, interactivity, or code organization.
+- **20–23 points (C):** Developing — Most requirements attempted; noticeable problems with how site behaves, responsiveness, or code quality; site is usable but has definite bugs.
+- **16–19 points (D):** Beginning — Limited number of requirements met; multiple broken features or incomplete work; site barely functions.
+- **Below 16 points (F):** Site does not meet expectations — Missing major components or requirements; site does not function as described in project directions.
 
 ---
 
-## Key Reminders for Self-Assessment
+## Assessing Your Work
 
-Before submitting, ask yourself:
+Before submitting the final version of your project, ask yourself:
 
-- **Functionality:** Do all links work? Do all JavaScript interactions respond as expected? Does the slideshow/animation run smoothly?
-- **Responsiveness:** Does my site look good on my phone, tablet, and laptop? Are there any awkward gaps or overlapping elements?
-- **Code Quality:** Would someone else be able to understand my code? Are my variable names clear? Did I add comments for complex logic?
-- **Completeness:** Are all files uploaded to GitHub? Did I include image files? Is my commit history visible?
-- **Topic Appropriateness:** Is my topic suitable for a classroom setting? Is the content accurate and meaningful?
+- **Function:** Do all links work? Does my JavaScript perform as expected? Does the slideshow/animation run smoothly?
+- **Responsiveness:** Does my site look good on my phone, tablet, and laptop? Are there any gaps in the content or overlapping elements?
+- **Code Quality:** Would someone else be able to understand my code? Are my variable names short and descriptive? Did I sprinkle *meaningful* comments throughout my code that explain -- briefly -- what my code is doing or is used for?
+- **Completeness:** Did I upload all my project files to GitHub? Did I upload my image files? Is my commit history visible in my repo?
+- **Theme/Topic:** Is my topic classroom-friendly? Is the content accurate and professional?
