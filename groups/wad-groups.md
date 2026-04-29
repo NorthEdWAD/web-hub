@@ -15,7 +15,7 @@
 
 3. Individual: Build Image Swap project
    - Upload finished code and image files to GitHub repo
-   - Submit repo web address using GitHub URL Google Form
+   - Submit repo web address using [GitHub URL Google Form](https://forms.gle/diNodcRDNmEKQ5TW9)
   
 4. Complete certification practice exam today (A, B, C or D -- your choice)
    - Certification exam: FRI 01 MAY 2026
