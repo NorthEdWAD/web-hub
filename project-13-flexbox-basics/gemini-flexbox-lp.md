@@ -2,6 +2,7 @@
 
 - [Virtual Addiction: Responsive Flexbox Page](https://youtu.be/kBNrc1_mTr8?si=XlCdIg5QpKLlFnwY)
 - [Bro Code: Learn Flexbox in 10 Minutes](https://youtu.be/GteJWhCikCk?si=QGjWCFlDqwQKuPQp)
+- [Learn Flexbox in 20 Minutes](https://youtu.be/wsTv9y931o8?si=4GHe1679V161dNob)
 
 ### Objective for Week
 *By Friday, students will be able to use Flexbox properties to create a responsive navigation bar and a multi-column content layout that adapts to different screen sizes.*
