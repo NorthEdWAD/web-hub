@@ -7,7 +7,7 @@
 
 ![Finished template area layout](template-areas-done.png)
 
-![HTML hint for this project](https://docs.google.com/presentation/d/1ZYBoAuFPKw9ppgdz4jvR8odJZFW2HzJ4y9jiqSI69WQ/edit?usp=sharing)
+[HTML hint for this project](https://docs.google.com/presentation/d/1ZYBoAuFPKw9ppgdz4jvR8odJZFW2HzJ4y9jiqSI69WQ/edit?usp=sharing)
 
 ---
 
