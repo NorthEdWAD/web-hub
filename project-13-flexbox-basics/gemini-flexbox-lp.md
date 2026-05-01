@@ -1,5 +1,7 @@
 ## Unit: Responsive Layouts with CSS Flexbox
 
+- [Virtual Addiction: Responsive Flexbox Page](https://youtu.be/kBNrc1_mTr8?si=XlCdIg5QpKLlFnwY(
+
 ### Objective for Week
 *By Friday, students will be able to use Flexbox properties to create a responsive navigation bar and a multi-column content layout that adapts to different screen sizes.*
 
