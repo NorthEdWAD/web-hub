@@ -11,6 +11,17 @@
 
 ---
 
+
+## 🛠️ **Getting Started**
+
+- Create a NEW repo on GitHub
+- Create a project folder on your laptop
+- Choose a classroom-friendly topic
+- Plan the content and layout for each page
+- Use GitHub Desktop to back up the code you write each day to GitHub
+
+---
+
 ## 📅 **Submitting Your Work**
 - **Due:** DDD 00 MMM 2026
 
@@ -40,15 +51,6 @@ Your project is complete when you have:
 
 ---
 
-## 🛠️ **Getting Started**
-
-- Create a NEW repo on GitHub
-- Create a project folder on your laptop
-- Choose a classroom-friendly topic
-- Plan the content and layout for each page
-- Use GitHub Desktop to back up the code you write each day to GitHub
-
----
 
 
 
