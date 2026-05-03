@@ -46,7 +46,7 @@ Your project is complete when you have:
 - Create a project folder on your laptop
 - Choose a classroom-friendly topic
 - Plan the content and layout for each page
-- Use GitHub Desktop to upload the code you write each day to GitHub
+- Use GitHub Desktop to back up the code you write each day to GitHub
 
 ---
 
