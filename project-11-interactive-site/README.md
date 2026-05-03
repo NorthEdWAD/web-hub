@@ -16,7 +16,7 @@
 
 - Create NEW GitHub repo: `interactive-site`
 - Upload project files to repo
-- Copy/paste repo link into [GitHub URL Form](https://forms.gle/AcrVxLhESyw23C7B7)
+- Copy/paste repo link into the Google [GitHub URL Form](https://forms.gle/AcrVxLhESyw23C7B7)
 
 ---
 
@@ -30,7 +30,7 @@ Your project is complete when you have:
 - [ ] Used JavaScript to add a simple animation/slideshow to one of your pages
 - [ ] Tested and debugged your code
 - [ ] Uploaded your code and image files to GitHub
-- [ ] Shared the link to your GitHub repo (using the GitHub URL form)
+- [ ] Shared the link to your GitHub repo (using the above Google form)
 
 ---
 
