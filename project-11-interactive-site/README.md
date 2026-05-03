@@ -14,20 +14,19 @@
 
 ## 🛠️ **Getting Started**
 
-- Create a NEW repo on GitHub
-- Create a project folder on your laptop
+- Create NEW repo on GitHub: `interactive-site`
+- Create new project folder on laptop
 - Choose a classroom-friendly topic
-- Plan the content and layout for each page
-- Use GitHub Desktop to back up the code you write each day to GitHub
+- Plan content and layout for each page
+- Use GitHub Desktop to back up your code and image files to GitHub
 
 ---
 
 ## 📅 **Submitting Your Work**
 - **Due:** DDD 00 MMM 2026
 
-- Create NEW GitHub repo: `interactive-site`
-- Upload project files to repo
-- Copy/paste repo link into the Google [GitHub URL Form](https://forms.gle/AcrVxLhESyw23C7B7)
+- Upload project files to GitHub
+- Copy/paste repo link into [GitHub URL](https://forms.gle/AcrVxLhESyw23C7B7)
 
 ---
 
@@ -36,12 +35,12 @@
 Your project is complete when you have:
 
 - [ ] Created and linked the two pages to one another
-- [ ] Used CSS Grid to make your pages responsive
-- [ ] Used JavaScript functions to style page content *dynamically/on the fly*
+- [ ] Used CSS Grid to make pages responsive
+- [ ] Used JavaScript functions to style page content *on demand*
 - [ ] Used JavaScript to add a simple animation/slideshow to one of your pages
 - [ ] Tested and debugged your code
-- [ ] Uploaded your code and image files to GitHub
-- [ ] Shared the link to your GitHub repo (using the above Google form)
+- [ ] Uploaded project files to GitHub
+- [ ] Shared link to GitHub repo (using the above Google form)
 
 ---
 
