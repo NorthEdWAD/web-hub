@@ -7,7 +7,7 @@
   - uses CSS Grid for the general page layout
   - uses JavaScript to make the site interactive
     - Uses JS functions to change the page styling *on demand*
-    - Contains a JavaScript-powered slideshow or animation about the site's topic/theme 
+    - Contains a professional JavaScript-powered slideshow or animation related to the site's topic/theme 
 
 ---
 
