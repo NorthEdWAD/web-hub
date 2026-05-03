@@ -14,7 +14,7 @@ By the end of the unit, students will be able to create and style simple web pag
 ---
 
 ## Learning Objectives
-By completing this unit, students will:
+By the end of this unit, students will:
 - Understand the structure of an HTML document
 - Use semantic HTML elements to create accessible web pages
 - Apply basic CSS to style text, colors, and layouts
