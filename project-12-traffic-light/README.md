@@ -24,7 +24,7 @@ Your project is complete when you have:
 
 - [JS FOR Loops / BroCode on YouTube](https://youtu.be/ZOQYIWLngSU?si=PghmJbrYd4TXe92_)
 - Download starter files from GitHub
-- [CSS Grid template areas for beginners / YouTube](#)
+- [CSS Grid template areas / YouTube](https://youtu.be/83iQbQoEmHM?si=aoULcuTroCqiYAhC)
 
 ## 🛠️ Getting Started
 
