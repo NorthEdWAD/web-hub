@@ -22,8 +22,8 @@ Your project is complete when you have:
 
 ## 🔗 Resources
 
-- [JS FOR loop example](#)
-- [See starter files](#)
+- [JS FOR Loops / BroCode on YouTube](https://youtu.be/ZOQYIWLngSU?si=PghmJbrYd4TXe92_)
+- Download starter files from GitHub
 - [CSS Grid template areas for beginners / YouTube](#)
 
 ## 🛠️ Getting Started
