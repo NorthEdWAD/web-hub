@@ -23,7 +23,7 @@ Your project is complete when you have:
 ## 🔗 Resources
 
 - [JS FOR Loops / YouTube](https://youtu.be/ZOQYIWLngSU?si=PghmJbrYd4TXe92_)
-- Download starter files from GitHub
+- Download starter files from this GitHub repo
 - [CSS Grid template areas / YouTube](https://youtu.be/83iQbQoEmHM?si=aoULcuTroCqiYAhC)
 
 ## 🛠️ Getting Started
