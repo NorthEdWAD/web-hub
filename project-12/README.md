@@ -98,13 +98,11 @@ section {
 
 </details>
 
-<details>
-
 
 <!-- Commented out
 
+<details>
 
-  
 <summary>Part 3: Styling the Traffic Light Housing</summary>
 
 You'll use CSS Grid to stack the traffic lights vertically. There will be a gap of 15px between each light.
