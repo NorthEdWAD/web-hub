@@ -22,7 +22,7 @@ Your project is complete when you have:
 
 ## 🔗 Resources
 
-- [JS FOR Loops / BroCode on YouTube](https://youtu.be/ZOQYIWLngSU?si=PghmJbrYd4TXe92_)
+- [JS FOR Loops / YouTube](https://youtu.be/ZOQYIWLngSU?si=PghmJbrYd4TXe92_)
 - Download starter files from GitHub
 - [CSS Grid template areas / YouTube](https://youtu.be/83iQbQoEmHM?si=aoULcuTroCqiYAhC)
 
