@@ -23,7 +23,7 @@ Your project is complete when you have:
 ## 🔗 Resources
 
 - [JS FOR Loops / YouTube](https://youtu.be/ZOQYIWLngSU?si=PghmJbrYd4TXe92_)
-- Download starter files from this GitHub repo
+- Download [starter files](https://github.com/NorthEdWAD/web-hub/tree/main/project-12-traffic-light/starter) from this repo
 - [CSS Grid template areas / YouTube](https://youtu.be/83iQbQoEmHM?si=aoULcuTroCqiYAhC)
 
 ## 🛠️ Getting Started
