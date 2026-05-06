@@ -99,8 +99,6 @@ section {
 </details>
 
 
-<!-- Commented out
-
 <details>
 
 <summary>Part 3: Styling the Traffic Light Housing</summary>
@@ -197,4 +195,4 @@ cycle();
 
 </details>
 
--->
+
