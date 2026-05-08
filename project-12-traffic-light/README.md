@@ -19,6 +19,7 @@ Your project is complete when you have:
 - created the general page layout using semantic HTML5 elements
 - used CSS Grid template areas to build the traffic light
 - written the JavaScript needed to handle the switching and timing of the traffic light
+- Submitting repo web address using the [GitHub URL Form](https://forms.gle/diNodcRDNmEKQ5TW9)
 
 ## 🔗 Resources
 
