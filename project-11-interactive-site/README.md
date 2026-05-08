@@ -23,7 +23,7 @@
 ---
 
 ## 📅 **Submitting Your Work**
-- **Due:** DDD 00 MMM 2026
+- **Due:** WED 20 MAY 2026
 
 - Upload project files to GitHub
 - Copy/paste repo link into [GitHub URL](https://forms.gle/AcrVxLhESyw23C7B7)
