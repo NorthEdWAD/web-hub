@@ -10,7 +10,8 @@ You'll build an animated traffic light for your web page using HTML5 semantic el
 
 - Create NEW GitHub repo: `js-traffic-light`
 - Upload project files to repo
-- Copy/paste repo link into GitHub URL Form
+- Copy/paste repo link into [GitHub URL Form](https://forms.gle/diNodcRDNmEKQ5TW9)
+
 
 ## ✅ Requirements
 
@@ -19,7 +20,7 @@ Your project is complete when you have:
 - created the general page layout using semantic HTML5 elements
 - used CSS Grid template areas to build the traffic light
 - written the JavaScript needed to handle the switching and timing of the traffic light
-- Submitted your repo web address using the [GitHub URL Form](https://forms.gle/diNodcRDNmEKQ5TW9)
+
 
 ## 🔗 Resources
 
