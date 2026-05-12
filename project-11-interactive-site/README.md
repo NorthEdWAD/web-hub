@@ -46,6 +46,7 @@ Your project is complete when you have:
 
 ## 🔗 **Resources**
 - Previous JavaScript projects we've worked on
+- [Adding list items to page using JS | YouTube](https://youtu.be/wiozYyXQEVk?si=vEDkr1MD9NFnKTF5)
 - [General web design resources](https://github.com/NorthEdWAD/web-hub/wiki)
 
 ---
