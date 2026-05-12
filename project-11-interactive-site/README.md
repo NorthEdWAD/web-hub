@@ -28,7 +28,7 @@
 - **Due:** WED 20 MAY 2026
 
 - Upload project files to GitHub
-- Copy/paste repo link into [GitHub URL](https://forms.gle/AcrVxLhESyw23C7B7)
+- Copy/paste repo link into [GitHub URL Form](https://forms.gle/AcrVxLhESyw23C7B7)
 
 ---
 
@@ -42,7 +42,7 @@ Your project is complete when you have:
 - [ ] Used JavaScript to add a simple animation/slideshow to one of your pages
 - [ ] Tested and debugged your code
 - [ ] Uploaded project files to GitHub
-- [ ] Shared link to GitHub repo (using the above Google form)
+- [ ] Shared link to GitHub repo using the [GitHub URL Form](https://forms.gle/AcrVxLhESyw23C7B7)
 
 ---
 
