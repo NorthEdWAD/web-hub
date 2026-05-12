@@ -48,6 +48,7 @@ Your project is complete when you have:
 - Previous JavaScript projects we've worked on
 - [JS Client-Side Form Validation with Styling | YouTube](https://youtu.be/rsd4FNGTRBw?si=CUfOhUTFtmgxTkzD)
   - [Adding Font Awesome icons to web page](https://www.w3schools.com/icons/fontawesome_icons_intro.asp)
+  - [Using Google Icons Intro | w3schools](https://www.w3schools.com/icons/google_icons_intro.asp)
 - [Adding list items to page using JS | YouTube](https://youtu.be/wiozYyXQEVk?si=vEDkr1MD9NFnKTF5)
 - [JS Form Validation for Beginners | YouTube](https://youtu.be/C2LbTN22MM8?si=-wtz9X9s-nlLX3Ln)
 - [Simple JS Form Validation | YouTube](https://youtu.be/In0nB0ABaUk?si=5i4Y9KtjVuUGbDB2)
