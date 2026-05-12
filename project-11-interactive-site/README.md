@@ -6,8 +6,10 @@
 - *Create a **responsive**, two-page website on a classroom-friendly topic that:*
   - uses CSS Grid for the general page layout
   - uses JavaScript to make the site interactive
-    - Uses JS functions to change the page styling *on demand*
-    - Contains a professional JavaScript-powered slideshow or animation related to the site's topic/theme 
+  - For example, you could add any of these features to your interactive site:
+    - JS functions to change the page styling *on demand*
+    - A professional JavaScript-powered slideshow or animation related to the site's topic/theme
+    - An HTML5 web form that uses JavaScript to validate (check) the user's input when they fill out the form
 
 ---
 
