@@ -42,7 +42,7 @@ Your project is complete when you have:
 - [ ] Used JavaScript to add a simple animation/slideshow to one of your pages
 - [ ] Tested and debugged your code
 - [ ] Uploaded project files to GitHub
-- [ ] Shared link to GitHub repo using the [GitHub URL Form](https://forms.gle/AcrVxLhESyw23C7B7)
+- [ ] Shared link to project GitHub repo using the [GitHub URL Form](https://forms.gle/AcrVxLhESyw23C7B7)
 
 ---
 
