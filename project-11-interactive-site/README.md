@@ -47,6 +47,8 @@ Your project is complete when you have:
 ## 🔗 **Resources**
 - Previous JavaScript projects we've worked on
 - [Adding list items to page using JS | YouTube](https://youtu.be/wiozYyXQEVk?si=vEDkr1MD9NFnKTF5)
+- [Simple JS Form Validation | YouTube](https://youtu.be/In0nB0ABaUk?si=5i4Y9KtjVuUGbDB2)
+- [HTML Form Validation with JavaScript | YouTube](https://youtu.be/CYlNJpltjMM?si=IR4Zn6FRcZEc3t-v)
 - [General web design resources](https://github.com/NorthEdWAD/web-hub/wiki)
 
 ---
