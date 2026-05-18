@@ -16,7 +16,6 @@ Your project is complete when you have:
   - **Example 2:** JS-powered slideshow
   - **Example 3:** JS form validation
   - **Example 4:** Simple JS calculation or conversion 
-  - 
 - [ ] Debugged and validated your code
   - [W3C Markup Validation](https://validator.w3.org/#validate_by_upload)
   - [Jigsaw CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_upload)
